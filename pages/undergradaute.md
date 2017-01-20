@@ -64,3 +64,35 @@ Detailed course descriptions are located in the [Undergraduate Bulletin](http://
 ###  Curriculum
 
 History courses impart a range of valuable skills while also providing a lively forum for the discussion of ideas. While some courses are lecture-based, most classes blend lectures with discussions and debates. Along the way, History students learn important skills such as how to read for argument, how to conduct research, and how to articulate an idea and support it with evidence. Perhaps equally importantly, History students learn how to think critically and to formulate their own thoughts on a given topic.
+
+## Honors Program
+
+Through mentoring, university research funding, and scholarly events, the History Honors Scholar Program (founded in 2004) encourages and supports History majors in making the creative most of their undergraduate years.
+
+History Honors Scholars explore topics of their own choosing, conduct exciting research, and are guided by outstanding faculty in the History Department to produce works of true scholarship. History Honors students get an early start in their plans for graduate or professional schools and develop the analytic and research skills necessary for success in those post-graduate programs. These skills are indispensable for any career in the public sphere and further develop information literacy learned during matriculation in the General Education requirement.
+
+Through a careful sequencing of courses, students learn about the nature of primary sources in the discipline of history, the challenges of reading such sources critically, and the rhetorical practices of writing a complex historical argument. The History Honors Scholar Program encourages students to conceive of their work in broad interdisciplinary and geo-political contexts that link historical problems with art, film, literature, philosophy, politics, technology, science, gender studies, race studies, and postcolonial studies. Students complete the History Honors Scholar Program with a polished and closely argued thesis (a minimum of 8,000 words exclusive of footnotes and bibliography) suitable for publication in a scholarly journal. This thesis can serve as the core of a student’s dossier as she or he applies for graduate fellowships, professional schools, or post-baccalaureate employment.
+
+### Application Requirements
+
+To participate in the History Honors Scholar Program, you must first apply to the University Honors office. Any History major who has earned or is in the process of earning 60 credits and has roughly a 3.7 cumulative GPA can apply for the program. The application form is available on the [Honors website](http://honors.temple.edu/). You should apply as soon as you are eligible so that you have maximum flexibility in scheduling the required coursework. Make an appointment to meet with the Director of the History Honors Scholar Program for advice on completing the application and to discuss your intellectual interests.
+
+### Program Requirements
+
+Students in the program take six courses (18 credits), including Historiography and Research Methods (4934), the Honors Thesis Seminar (“Capstone”)(4997) and four upper-level Honors electives (any department). One of those electives can be an Honors Independent Study (4982) if the student’s thesis needs more work. With careful planning, these Honors courses can ALSO fulfill the requirements for the History major, so that students need not delay graduation. For example, the Thesis Seminar (4997) fulfills the normal “capstone/writing” requirement, and the electives, if chosen from History offerings, will also fulfill major requirements. Students must maintain a 3.4 GPA in History and a 3.4 GPA overall.
+
+### Program Activities
+
+Graduating students in the Honors Program participate in an Honors Symposium in the late spring of their graduating year. At the symposium students will present a ten-minute long synopsis of their Honors Thesis to the community of History Majors and faculty. The presentations describe their thesis journey: how they formulated their thesis problem, what kinds of sources they used to investigate their problem, and their reflections on their arguments and findings.
+
+### Funding and Support
+
+Honors Students can apply for financial support to cover research related activities, such as visits to archives, travel to present scholarly papers etc., up to $2,000 through the [Undergraduate Research Incentive Fund](http://www.temple.edu/vpus/opportunities/URIF.htm). There are also funds available in the [Diamond Research Scholars program](http://www.temple.edu/vpus/opportunities/researchscholars.htm). Honors students are also encouraged to submit their completed thesis to the [Library Prize for Undergraduate Research](http://guides.temple.edu/libraryprize).
+
+### Social Events
+
+The History Department will host an HONORS box lunch at the opening of each semester to encourage the growth of a vibrant community of undergraduate scholars.
+
+### Alpha Theta
+
+Phi Alpha Theta is a national History Honors Society that is open to both history majors and non-majors who have completed more than 12 credits in history and achieved a history GPA of 3.25 and a cumulative GPA of 3.1. To join Phi Alpha Theta you DO NOT need to participate in the History Honors Scholars Program. For information, contact the Phi Alpha Theta advisor, Dr. Monica Ricketts, [mrickett@temple.edu](mailto:mrickett@temple.edu).
