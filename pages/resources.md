@@ -36,3 +36,9 @@ When you are ready to apply, submit your application online at [admissions.templ
 **March 1: FAFSA**Financial Aid Application Deadline
 **November 1**: Transfer Deadline for Spring Semester
 **June 1**: Transfer Deadline for Fall Semester
+
+## Undergraduate Resources:
+
+### Awards and Scholarships
+
+The History Department offers a number of awards to undergraduates who demonstrate excellence in their History courses. At the end of the spring term each academic year a handful of students are selected to receive recognition for their research and writing abilities.
