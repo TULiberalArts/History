@@ -74,3 +74,17 @@ Each semester the Graduate Council may nominate between one and three Ph.D. stud
 ### Appointment as Part-Time Instructor
 
 Ph.D. candidates are eligible for appointment as part-time instructors. The Department Chair, after consulting with the Director of Graduate Studies, is responsible for these appointments. S/he will consider whether the candidate has assisted in the course, and if so, consult the faculty whom s/he has assisted. Priority will be given to those qualified students who have not had the opportunity previously to teach independently. 
+
+## The James A. Barnes Club
+
+The purpose of the James A. Barnes Club is to foster a sense of community among the graduate students in the History Department. Graduate study is not only intellectually challenging (and rewarding), but emotionally draining as well. Coursework is intense, and graduate students in the History Department shuttle between Temple University’s Center City Campus (TUCC) and Main Campus; often without seeing a sympathetic fellow graduate student. All too often, graduate school can be an isolating, intimidating place. The Barnes Club works to change that.
+
+Our organization is a support group for the concerns and issues that graduate students face each day. The Barnes Club serves as a vital liaison between graduate history students and the History Department, informing students about department events and voicing our concerns to the faculty. The Barnes Club email list distributes important information on department events and activities, conference and career opportunities, and Barnes Club social events to our members.
+
+Barnes Club dues are fifteen dollars per year, and help to pay for the Barnes Club conference, social activities for graduate students, and other Club activities. We also hold afternoon workshops on Main Campus, such as our professional development workshop, that focus on the various intellectual, methodological, and professional issues that are important to historians. We have organized several other monthly activities that meet on Main Campus during the afternoon hours, including a Graduate Student Teaching Circle to discuss the joys (and pains!) of teaching history at Temple and beyond.
+
+The Barnes Club is our club and your involvement makes study at Temple more rewarding for all of us. If you have never been to a meeting, give it a try. If you came in the past but decided not to return, please give us another chance. If you attended our meetings on a regular basis, we hope that you will continue to do so this year. We want you to share your insights with us so that we can make the Barnes Club more effective and Temple University a better place for graduate study in history.
+
+## Annual Conference
+
+Graduate students in the Department of History at Temple University host the James A. Barnes Club Graduate Student Conference annually. The Barnes Club Conference is one of the largest and most prestigious graduate student conferences in the region, drawing participants from across the nation and around the world. The annual two-day conference takes place in March during the spring semester.  It gives rising scholars the opportunity to present their projects, receive critical feedback, and network to establish and expand their academic communities. Select conference papers are awarded cash prizes in various geographical and scholarly categories.
