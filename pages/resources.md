@@ -43,6 +43,23 @@ The History Department offers a number of awards to undergraduates who demonstra
 
 ## General Resources
 
+### Graduate Contact
+
+Bryant Simon
+Director of Graduate Studies
+949 Gladfelter Hall
+[brysimon@temple.edu](mailto:brysimon@temple.edu)
+
+Jessica Roney
+MA Coordinator
+950 Gladfelter Hall
+[jessica.roney@temple.edu](mailto:jessica.roney@temple.edu)
+
+Hilary Lowe
+MA Public History Coordinator
+948 Gladfelter Hall
+[hilowe@temple.edu](mailto:hilowe@temple.edu)
+
 ### Awards and Scholarships
 
 The Department of History has a number of awards available to undergraduate and graduate students. [Learn more](http://www.cla.temple.edu/history/alumni-giving/department-awards/).
@@ -148,4 +165,4 @@ Endowed research award for Temple University graduate students of diplomatic and
 
 Awarded to a Temple University graduate student of military or diplomatic history. Preference is given to students who incorporate a study of technology into their work.
 
-- The Department also awards the Allen Davis Endowed Fellowship in Public History (an incoming Ph.D. student who is interested in public history). 
+- The Department also awards the Allen Davis Endowed Fellowship in Public History (an incoming Ph.D. student who is interested in public history).
