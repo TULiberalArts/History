@@ -54,3 +54,23 @@ Admissions requirements to the M.A. and Ph.D. programs in history follows the ge
 ## Careers
 
 Graduates of the M.A. and Ph.D. programs in history work at numerous colleges and universities in tenured and tenure-track positions, as historians for the federal and state governments, in museums, university presses, and as university administrators.
+
+## The Department of History has a number of financing opportunities available to graduate student.
+
+### Teaching Assistantships
+
+Teaching Assistants (TA) are required to teach or assist in teaching at Temple. Their duties include 20 hours of service per week. Holders receive tuition waivers for all courses taken during the fall and spring semesters (up to 9 credits) that contribute to the student’s program, plus a stipend. All TAs are doctoral students.
+
+Most Teaching Assistants are assigned to large core courses in which they are given the responsibility to lead discussion sections, grade papers and examinations, prepare and deliver formal lectures, and contribute to structuring the syllabus for the course. On occasion a Teaching Assistant is provided the opportunity to teach her/his own course, serve as a Research Assistant for one of the faculty in the department, or take on some administrative responsibility consistent with the student’s program. Teaching Assistantships can be renewed for up to four years. Decisions regarding TAships are made annually in the spring semester. New applicants for the PhD program are automatically considered. Advanced PhD students who do not currently hold a TAship and who wish to be considered for one should send their application to the Chair of the History department by January 31.
+
+### University-Awarded Fellowships
+
+Presidential, University, and Future Faculty Fellowships are administered by the Graduate School and provide support for a maximum of four calendar years with stipends higher than those of assistantships. They are intended as part of a four-year program that includes two years’ experience as a Teaching/Research Assistant. In addition to free tuition, these fellowships carry a stipend for a 12-month year. (The stipend is reduced if the student is not at Temple in the summer.) Normally, the student is on fellowship her/his first two years in the program, and serves as an assistant in the third and fourth years. While on fellowship, the student must take a minimum of 9 academic credits each semester during the academic year. Students are nominated for Presidential, University, and Future Faculty Fellowships by the department.
+
+### Dissertation Completion Grant
+
+Each semester the Graduate Council may nominate between one and three Ph.D. students to receive a University Dissertation Completion Grant. Departmental nomination does not guarantee the nominee receipt of the Dissertation Completion Grant. Receipt of this grant disqualifies a student from receiving additional financial support from Temple University.
+
+### Appointment as Part-Time Instructor
+
+Ph.D. candidates are eligible for appointment as part-time instructors. The Department Chair, after consulting with the Director of Graduate Studies, is responsible for these appointments. S/he will consider whether the candidate has assisted in the course, and if so, consult the faculty whom s/he has assisted. Priority will be given to those qualified students who have not had the opportunity previously to teach independently. 
