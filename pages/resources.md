@@ -5,13 +5,45 @@ layout: page
 published: true
 ---
 
+Chair:
+
+Jay Lockenour
+909 Gladfelter Hall
+[(215) 204-7437](tel:2152047437)
+[jay.lockenour@temple.edu](mailto:jay.lockenour@temple.edu)
+
+Undergraduate Chair:
+
+Rita Krueger
+919 Gladfelter Hall
+[rita.krueger@temple.edu](mailto:rita.krueger@temple.edu)
+
+Graduate Chair:
+
+Bryant Simon
+949 Gladfelter Hall
+[brysimon@temple.edu](maito:brysimon@temple.edu)
+
+Administrator:
+
+Maggie Cogswell
+1008A Gladfelter Hall
+[(215) 204-9209](tel:2152049209)
+[tuf70408@temple.edu](mailto:tuf70408@temple.edu)
+
+Coordinator:
+
+Djuna Witherspoon
+910 Gladfelter Hall
+[(215) 204-4997](tel:2152044997)
+[djuna@temple.edu](mailto:djuna@temple.edu)
+
+Vangeline Campbell
+911 Gladfelter Hall
+[(215) 204-7839](tel:2152047839)
+[vcampbel@temple.edu](mailto:vcampbel@temple.edu)
+
 ## Resources here here to help!
-
-### Awards and Scholarships
-
-The History Department offers a number of awards to undergraduates who demonstrate excellence in their History courses. At the end of the spring term each academic year a handful of students are selected to receive recognition for their research and writing abilities.
-
-## General Resources
 
 ### Graduate Contact
 
@@ -29,10 +61,6 @@ Hilary Lowe
 MA Public History Coordinator
 948 Gladfelter Hall
 [hilowe@temple.edu](mailto:hilowe@temple.edu)
-
-### Awards and Scholarships
-
-The Department of History has a number of awards available to undergraduate and graduate students. [Learn more](http://www.cla.temple.edu/history/alumni-giving/department-awards/).
 
 ### Research Centers
 
@@ -77,7 +105,9 @@ The purpose of the James A. Barnes Club is to foster a sense of community among 
 - [Dissertations in Progress](http://www.cla.temple.edu/history/graduate/dissertations-in-progress/)
 - [Dissertations Defended 2011 – 2012](http://www.cla.temple.edu/history/graduate/dissertations-defended-2011-2012/)
 
-## The Department of History has a number of awards available to undergraduate and graduate students.
+## Awards and Scholarships
+
+The History Department offers a number of awards to undergraduates who demonstrate excellence in their History courses. At the end of the spring term each academic year a handful of students are selected to receive recognition for their research and writing abilities.[Learn more](http://www.cla.temple.edu/history/alumni-giving/department-awards/)
 
 ### A. Charles and S. Nevada Adams Scholarship
 
