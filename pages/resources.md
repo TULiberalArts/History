@@ -1,47 +1,48 @@
 ---
 title: Resources
+meta-keywords: 3 or 4 unique for this page
 permalink: /resources/
 layout: page
 published: true
 ---
 
-Chair:
+**Chair:**
 
-Jay Lockenour
-909 Gladfelter Hall
-[(215) 204-7437](tel:2152047437)
-[jay.lockenour@temple.edu](mailto:jay.lockenour@temple.edu)
+Jay Lockenour<br>
+909 Gladfelter Hall<br>
+[(215) 204-7437](tel:2152047437)<br>
+[jay.lockenour@temple.edu](mailto:jay.lockenour@temple.edu)<br>
 
-Undergraduate Chair:
+**Undergraduate Chair:**
 
-Rita Krueger
-919 Gladfelter Hall
-[rita.krueger@temple.edu](mailto:rita.krueger@temple.edu)
+Rita Krueger<br>
+919 Gladfelter Hall<br>
+[rita.krueger@temple.edu](mailto:rita.krueger@temple.edu)<br>
 
-Graduate Chair:
+**Graduate Chair:**
 
-Bryant Simon
-949 Gladfelter Hall
-[brysimon@temple.edu](maito:brysimon@temple.edu)
+Bryant Simon<br>
+949 Gladfelter Hall<br>
+[brysimon@temple.edu](maito:brysimon@temple.edu)<br>
 
-Administrator:
+**Administrator:**
 
-Maggie Cogswell
-1008A Gladfelter Hall
-[(215) 204-9209](tel:2152049209)
-[tuf70408@temple.edu](mailto:tuf70408@temple.edu)
+Maggie Cogswell<br>
+1008A Gladfelter Hall<br>
+[(215) 204-9209](tel:2152049209)<br>
+[tuf70408@temple.edu](mailto:tuf70408@temple.edu)<br>
 
-Coordinator:
+**Coordinator:**
 
-Djuna Witherspoon
-910 Gladfelter Hall
-[(215) 204-4997](tel:2152044997)
-[djuna@temple.edu](mailto:djuna@temple.edu)
+Djuna Witherspoon<br>
+910 Gladfelter Hall<br>
+[(215) 204-4997](tel:2152044997)<br>
+[djuna@temple.edu](mailto:djuna@temple.edu)<br>
 
-Vangeline Campbell
-911 Gladfelter Hall
-[(215) 204-7839](tel:2152047839)
-[vcampbel@temple.edu](mailto:vcampbel@temple.edu)
+Vangeline Campbell<br>
+911 Gladfelter Hall<br>
+[(215) 204-7839](tel:2152047839)<br>
+[vcampbel@temple.edu](mailto:vcampbel@temple.edu)<br>
 
 ## Resources here here to help!
 
