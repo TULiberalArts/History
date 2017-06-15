@@ -6,62 +6,7 @@ layout: page
 published: true
 ---
 
-**Chair:**
-
-Jay Lockenour<br>
-909 Gladfelter Hall<br>
-[(215) 204-7437](tel:2152047437)<br>
-[jay.lockenour@temple.edu](mailto:jay.lockenour@temple.edu)<br>
-
-**Undergraduate Chair:**
-
-Rita Krueger<br>
-919 Gladfelter Hall<br>
-[rita.krueger@temple.edu](mailto:rita.krueger@temple.edu)<br>
-
-**Graduate Chair:**
-
-Bryant Simon<br>
-949 Gladfelter Hall<br>
-[brysimon@temple.edu](maito:brysimon@temple.edu)<br>
-
-**Administrator:**
-
-Maggie Cogswell<br>
-1008A Gladfelter Hall<br>
-[(215) 204-9209](tel:2152049209)<br>
-[tuf70408@temple.edu](mailto:tuf70408@temple.edu)<br>
-
-**Coordinator:**
-
-Djuna Witherspoon<br>
-910 Gladfelter Hall<br>
-[(215) 204-4997](tel:2152044997)<br>
-[djuna@temple.edu](mailto:djuna@temple.edu)<br>
-
-Vangeline Campbell<br>
-911 Gladfelter Hall<br>
-[(215) 204-7839](tel:2152047839)<br>
-[vcampbel@temple.edu](mailto:vcampbel@temple.edu)<br>
-
-## Resources here here to help!
-
-### Graduate Contact
-
-Bryant Simon
-Director of Graduate Studies
-949 Gladfelter Hall
-[brysimon@temple.edu](mailto:brysimon@temple.edu)
-
-Jessica Roney
-MA Coordinator
-950 Gladfelter Hall
-[jessica.roney@temple.edu](mailto:jessica.roney@temple.edu)
-
-Hilary Lowe
-MA Public History Coordinator
-948 Gladfelter Hall
-[hilowe@temple.edu](mailto:hilowe@temple.edu)
+## Resources are here to help!
 
 ### Research Centers
 
@@ -73,38 +18,9 @@ MA Public History Coordinator
 
 Evolving from Prof. Ralph Young’s Dissent in America course, students gather to discuss the historical background to the current political situation in the world. [Learn more](http://www.cla.temple.edu/history/dissent-in-america-teach-ins/).
 
-### Undergraduate Academic Resources
-
-- [Changing your major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp) 
-- [Graduation Application proces](http://www.temple.edu/registrar/students/graduation/)s 
-- [Financing your Education](http://sfs.temple.edu/)
-- [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
-
-## Graduate
-
-### Graduate Financing Opportunities
-
-The Department of History has several financing opportunities available to graduate students including teaching assistantships, university-awarded fellowships, dissertation completion grants and appointments as part-time instructor the department. [Learn more](http://www.cla.temple.edu/history/graduate/financing-opportunities/).
-
-### Graduate Academic Resources
-
-- [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm) 
-- [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm) 
-- [Data Sheet for Graduation Applications](http://www.cla.temple.edu/history/files/2014/04/History_Department_Graduate_Application_Data_Sheet.pdf)
-
-## The Comprehensive Exam: Strategies for Success
-
-The “Comps” are an occasion for students to demonstrate their analytical acumen and to apply what they have learned in their coursework, teaching, research, writing, and comps preparation. [Learn more](http://www.cla.temple.edu/history/graduate/the-james-a-barnes-club/).
-
 ## The James A. Barnes Club
 
 The purpose of the James A. Barnes Club is to foster a sense of community among the graduate students in the History Department. [Learn more](http://www.cla.temple.edu/history/graduate/the-james-a-barnes-club/).
-
-## Dissertations
-
-- [Dissertations](http://www.cla.temple.edu/history/graduate/#)
-- [Dissertations in Progress](http://www.cla.temple.edu/history/graduate/dissertations-in-progress/)
-- [Dissertations Defended 2011 – 2012](http://www.cla.temple.edu/history/graduate/dissertations-defended-2011-2012/)
 
 ## Awards and Scholarships
 
