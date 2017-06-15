@@ -4,6 +4,45 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /graduate/
 layout: page
 published: true
+sidebar: true
+sidebar-content: > #
+  ### Contact Us
+
+  <hr>
+
+  **Chair:** <br/>
+  Jay Lockenour<br/>
+  909 Gladfelter Hall<br/>
+  [(215) 204-7437](tel:2152047437)<br>
+  [jay.lockenour@temple.edu](mailto:jay.lockenour@temple.edu)<br>
+
+  **Graduate Chair:** <br/>
+  Bryant Simon<br>
+  949 Gladfelter Hall<br>
+  [brysimon@temple.edu](maito:brysimon@temple.edu)<br>
+  
+  <hr>
+
+ **Administrator:**
+  Maggie Cogswell<br>
+  1008A Gladfelter Hall<br>
+  [(215) 204-9209](tel:2152049209)<br>
+  [tuf70408@temple.edu](mailto:tuf70408@temple.edu)<br>
+
+  <hr>
+
+  **Coordinators:**<br/>
+  Djuna Witherspoon<br>
+  910 Gladfelter Hall<br>
+  [(215) 204-4997](tel:2152044997)<br>
+  [djuna@temple.edu](mailto:djuna@temple.edu)<br>
+
+ <hr>
+ 
+  Vangeline Campbell<br>
+  911 Gladfelter Hall<br>
+  [(215) 204-7839](tel:2152047839)<br>
+  [vcampbel@temple.edu](mailto:vcampbel@temple.edu)<br>
 ---
 
 The Department of History at Temple University offers full-time graduate programs leading to a master’s (M.A.) and doctoral (Ph.D.) degrees.  We offer several four-year graduate teaching assistantships to incoming doctoral students and a variety of funding packages to master’s students in public history.  Additionally, the University offers fellowships on a competitive basis.
