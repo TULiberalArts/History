@@ -15,14 +15,30 @@ sidebar-content: > #
   909 Gladfelter Hall<br/>
   [(215) 204-7437](tel:2152047437)<br>
   [jay.lockenour@temple.edu](mailto:jay.lockenour@temple.edu)<br>
+  
+  <hr>
 
   **Graduate Chair:** <br/>
-  Bryant Simon<br>
+  Bryant Simon, Director of Graduate Studies<br>
   949 Gladfelter Hall<br>
   [brysimon@temple.edu](maito:brysimon@temple.edu)<br>
   
   <hr>
-
+  
+  **MA Coordinator** <br/>
+  Jessica Roney
+  950 Gladfelter Hall
+  [jessica.roney@temple.edu](mailto:jessica.roney@temple.edu)
+  
+  <hr>
+  
+  ** MA Public History Coordinator** <br/>
+  Hilary Lowe
+  948 Gladfelter Hall
+  [hilowe@temple.edu](mailto:hilowe@temple.edu)
+  
+  <hr>
+  
  **Administrator:**
   Maggie Cogswell<br>
   1008A Gladfelter Hall<br>
