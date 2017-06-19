@@ -39,7 +39,7 @@ sidebar-content: > #
   
   <hr>
   
- **Administrator:**
+  **Administrator:**
   Maggie Cogswell<br>
   1008A Gladfelter Hall<br>
   [(215) 204-9209](tel:2152049209)<br>
@@ -53,7 +53,7 @@ sidebar-content: > #
   [(215) 204-4997](tel:2152044997)<br>
   [djuna@temple.edu](mailto:djuna@temple.edu)<br>
 
- <hr>
+  <hr>
  
   Vangeline Campbell<br>
   911 Gladfelter Hall<br>
