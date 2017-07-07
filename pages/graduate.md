@@ -49,12 +49,7 @@ sidebar-content: > #
    Hilary Lowe  
    948 Gladfelter Hall    
    [(215) 204-1494](tel:2152041494)  
-   [hilowe@temple.edu](mailto:hilowe@temple.edu)   
-   
-   Catherine Staples  
-   713 Gladfelter Hall    
-   [(215) 204-1494](tel:2152041494)  
-   [cstaples@temple.edu](mailto:cstaples@temple.edu)    
+   [hilowe@temple.edu](mailto:hilowe@temple.edu)      
 ---
 
 The Department of History at Temple University offers full-time graduate programs leading to a master’s (M.A.) and doctoral (Ph.D.) degrees.  We offer several four-year graduate teaching assistantships to incoming doctoral students and a variety of funding packages to master’s students in public history.  Additionally, the University offers fellowships on a competitive basis.
