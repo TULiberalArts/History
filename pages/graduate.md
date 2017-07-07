@@ -6,59 +6,55 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
-  ### Contact Us
+  **Chair:**  
+   Jay Lockenour  
+   909 Gladfelter Hall  
+   [(215) 204-7437](tel:2152047437)  
+   [jay.lockenour@temple.edu](mailto:jay.lockenour@temple.edu)  
+   
+   ___
+   
+   **Director of Graduate Studies:**  
+   Bryant Simon  
+   949 Gladfelter Hall    
+   [brysimon@temple.edu](mailto:brysimon@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Maggie Cogswell  
+   1008A Gladfelter Hall   
+   [(215) 204-9209](tel:2152049209)  
+   [tuf70408@temple.edu](mailto:tuf70408@temple.edu)  
+   
+   ___
 
-  <hr>
+   **Coordinators:**  
+   Djuna Witherspoon  
+   910 Gladfelter Hall    
+   [(215) 204-7750](tel:2152044997)   
+   [djuna@temple.edu](mailto:djuna@temple.edu)  
 
-  **Chair:** <br/>
-  Jay Lockenour<br/>
-  909 Gladfelter Hall<br/>
-  [(215) 204-7437](tel:2152047437)<br>
-  [jay.lockenour@temple.edu](mailto:jay.lockenour@temple.edu)<br>
-  
-  <hr>
-
-  **Graduate Chair:** <br/>
-  Bryant Simon, Director of Graduate Studies<br>
-  949 Gladfelter Hall<br>
-  [brysimon@temple.edu](maito:brysimon@temple.edu)<br>
-  
-  <hr>
-  
-  **MA Coordinator** <br/>
-  Jessica Roney
-  950 Gladfelter Hall
-  [jessica.roney@temple.edu](mailto:jessica.roney@temple.edu)
-  
-  <hr>
-  
-  ** MA Public History Coordinator** <br/>
-  Hilary Lowe
-  948 Gladfelter Hall
-  [hilowe@temple.edu](mailto:hilowe@temple.edu)
-  
-  <hr>
-  
-  **Administrator:**
-  Maggie Cogswell<br>
-  1008A Gladfelter Hall<br>
-  [(215) 204-9209](tel:2152049209)<br>
-  [tuf70408@temple.edu](mailto:tuf70408@temple.edu)<br>
-
-  <hr>
-
-  **Coordinators:**<br/>
-  Djuna Witherspoon<br>
-  910 Gladfelter Hall<br>
-  [(215) 204-4997](tel:2152044997)<br>
-  [djuna@temple.edu](mailto:djuna@temple.edu)<br>
-
-  <hr>
- 
-  Vangeline Campbell<br>
-  911 Gladfelter Hall<br>
-  [(215) 204-7839](tel:2152047839)<br>
-  [vcampbel@temple.edu](mailto:vcampbel@temple.edu)<br>
+   Vangeline Campbell  
+   911 Gladfelter Hall    
+   [(215) 204-7839](tel:2152047839)  
+   [vcampbel@temple.edu](mailto:vcampbel@temple.edu)    
+   
+   **MA Coordinator:**    
+   Jessica Roney  
+   950 Gladfelter Hall      
+   [jessica.roney@temple.edu](mailto:jessica.roney@temple.edu)    
+   
+   **MA Public History Coordinator:**    
+   Hilary Lowe  
+   948 Gladfelter Hall    
+   [(215) 204-1494](tel:2152041494)  
+   [hilowe@temple.edu](mailto:hilowe@temple.edu)   
+   
+   Catherine Staples  
+   713 Gladfelter Hall    
+   [(215) 204-1494](tel:2152041494)  
+   [cstaples@temple.edu](mailto:cstaples@temple.edu)    
 ---
 
 The Department of History at Temple University offers full-time graduate programs leading to a master’s (M.A.) and doctoral (Ph.D.) degrees.  We offer several four-year graduate teaching assistantships to incoming doctoral students and a variety of funding packages to master’s students in public history.  Additionally, the University offers fellowships on a competitive basis.
