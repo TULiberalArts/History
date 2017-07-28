@@ -5,7 +5,7 @@ permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Jay Lockenour  
    909 Gladfelter Hall  
@@ -38,7 +38,7 @@ sidebar-content: > #
    Vangeline Campbell  
    911 Gladfelter Hall    
    [(215) 204-7839](tel:2152047839)  
-   [vcampbel@temple.edu](mailto:vcampbel@temple.edu)      
+   [vcampbel@temple.edu](mailto:vcampbel@temple.edu)
 ---
 
 ## Internationally Recognized Faculty
@@ -52,6 +52,8 @@ Our majors take rigorous courses in subjects such as Dissent in America, The His
 ## The Cradle Of American History And Its Global Connections
 
 Our home, Philadelphia, is a terrific place to study history — not only of the city and its remarkable past, but of the world as well. Our courses take advantage of Philly’s exciting past and our major allows students to take advantage of the many study abroad options available at Temple.
+
+When you are ready to apply, submit your application online at (admissions.temple.edu/apply)[http://admissions.temple.edu/apply].
 
 ## Academic Offerings
 
