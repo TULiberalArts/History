@@ -53,7 +53,7 @@ Our majors take rigorous courses in subjects such as Dissent in America, The His
 
 Our home, Philadelphia, is a terrific place to study history — not only of the city and its remarkable past, but of the world as well. Our courses take advantage of Philly’s exciting past and our major allows students to take advantage of the many study abroad options available at Temple.
 
-When you are ready to apply, submit your application online at (admissions.temple.edu/apply)[http://admissions.temple.edu/apply].
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
 ## Academic Offerings
 
