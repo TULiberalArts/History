@@ -2,9 +2,10 @@
 title: Research
 permalink: /research/
 layout: page
+keywords: ''
+description: >- 
 published: true
 ---
-
 ## Research Centers
 
 ## [The Center for the Study of Force and Diplomacy](http://www.temple.edu/cenfad/)
