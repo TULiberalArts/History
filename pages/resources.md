@@ -2,8 +2,6 @@
 title: Resources
 permalink: /resources/
 layout: page
-keywords: ''
-description: >-
 published: true
 ---
 ## Resources are here to help!
@@ -20,7 +18,7 @@ Evolving from Prof. Ralph Young’s Dissent in America course, students gather t
 
 ## The James A. Barnes Club
 
-The purpose of the James A. Barnes Club is to foster a sense of community among the graduate students in the History Department. [Learn more](http://www.cla.temple.edu/history/graduate/the-james-a-barnes-club/).
+The purpose of the James A. Barnes Club is to foster a sense of community among the graduate students in the History Department. [Learn more](https://sites.temple.edu/barnesclub/).
 
 ## Awards and Scholarships
 
