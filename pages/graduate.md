@@ -2,11 +2,9 @@
 title: Graduate
 permalink: /graduate/
 layout: page
-keywords: ''
-description: >-
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Jay Lockenour  
    909 Gladfelter Hall  
@@ -50,7 +48,7 @@ sidebar-content: > #
    Hilary Lowe  
    948 Gladfelter Hall    
    [(215) 204-1494](tel:2152041494)  
-   [hilowe@temple.edu](mailto:hilowe@temple.edu)      
+   [hilowe@temple.edu](mailto:hilowe@temple.edu)
 ---
 
 The Department of History at Temple University offers full-time graduate programs leading to a master’s (M.A.) and doctoral (Ph.D.) degrees.  We offer several four-year graduate teaching assistantships to incoming doctoral students and a variety of funding packages to master’s students in public history.  Additionally, the University offers fellowships on a competitive basis.
@@ -86,8 +84,6 @@ For more information on the M.A in Public History Click [Here](https://sites.tem
 - [Program Requirements](http://bulletin.temple.edu/graduate/scd/cla/history-ma/#programrequirementstext)
 - [Apply Now](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon).
 
-## Programs of Study
-
 ### Ph.D. in History
 
 The History Department’s Ph.D. program is a vibrant, engaged intellectual community of scholars and students. We work across all historical periods and methodologies. The thrust of the Ph.D. program is to prepare professional historians who are equipped to function in either academia or in public history.
@@ -97,7 +93,7 @@ The History Department’s Ph.D. program is a vibrant, engaged intellectual comm
 
 ## Admissions Process
 
-Admissions requirements to the M.A. and Ph.D. programs in history follows the general requirements established by the Graduate School at Temple University. Learn more about the university admissions requirements for the [History M.A.](http://bulletin.temple.edu/graduate/scd/cla/history-ma/) and [Ph.D. programs](http://bulletin.temple.edu/graduate/scd/cla/history-phd/).
+Please visit the [History Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/history) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Careers
 
