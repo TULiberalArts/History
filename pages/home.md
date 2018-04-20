@@ -6,7 +6,7 @@ description: >-
 keywords: ''
 feature: true
 feature-title: Develop skills useful for any career that requires high-level critical thinking, wide-ranging analytical skills and great writing. 
-feature-image: media/history_hero.png
+feature-image: media/old-family-photo.png
 feature-body: 
   Our students learn to master large amounts of information, conduct in-depth research, contextualize
   evidence from a variety of sources, and craft powerful written and oral arguments. These strengths are
