@@ -15,6 +15,13 @@ Using rigorous standards of evidence, historians tell meaningful stories about t
 
 History students develop skills useful for any career that requires high-level critical thinking, wide-ranging analytical skills, and great writing. Our students learn to master large amounts of information, conduct in-depth research, contextualize evidence from a variety of sources, and craft powerful written and oral arguments. These strengths are a foundation for lifelong learning, civic engagement, and successful careers.
 
+## Academic Offerings
+- [BA in History](http://bulletin.temple.edu/undergraduate/liberal-arts/history/ba-history/)
+- [Minor in History](http://bulletin.temple.edu/undergraduate/liberal-arts/history/minor-history/)
+- [MA in History](http://bulletin.temple.edu/graduate/scd/cla/history-ma/)
+- MA in History (Public History Concentration)
+- [PhD in History](http://bulletin.temple.edu/graduate/scd/cla/history-phd/)
+
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
     title=" " 
