@@ -42,78 +42,43 @@ sidebar-content: |
    [vcampbel@temple.edu](mailto:vcampbel@temple.edu)
 ---
 
-## Internationally Recognized Faculty
-
-Our faculty members are both world-renowned scholars and award-winning teachers.
-
-## Exciting Coursework
-
-Our majors take rigorous courses in subjects such as Dissent in America, The History of Nazi Germany, the History of Philadelphia, Immigration and the American Dream, and Cold War Africa. We have faculty experts in urban history, Asian history, military history, diplomacy, imperialism, the environment, and many other fields.
+Our undergraduate majors are bound together by a common curiosity about who we are, how our world was shaped over time, and how the past informs our present lives.Being a history major is also a great preparation for a professional career in the fields of law, education, business, government and more.
 
 ## The Cradle Of American History And Its Global Connections
-
 Our home, Philadelphia, is a terrific place to study history — not only of the city and its remarkable past, but of the world as well. Our courses take advantage of Philly’s exciting past and our major allows students to take advantage of the many study abroad options available at Temple.
 
-When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
+## Exciting Coursework
+Our majors take rigorous courses in subjects such as Dissent in America, The History of Nazi Germany, the History of Philadelphia, Immigration and the American Dream, and Cold War Africa. We have faculty experts in urban history, Asian history, military history, diplomacy, imperialism, the environment, and many other fields.
 
-## Academic Offerings
+## Internationally Recognized Faculty
+Our faculty members are both world-renowned scholars and award-winning teachers.
 
-- [BA in History](http://bulletin.temple.edu/undergraduate/liberal-arts/history/ba-history/)
-- [Minor in History](http://bulletin.temple.edu/undergraduate/liberal-arts/history/minor-history/)
-- [MA in History](http://bulletin.temple.edu/graduate/scd/cla/history-ma/)
-- MA in History (Public History Concentration)
-- [PhD in History](http://bulletin.temple.edu/graduate/scd/cla/history-phd/)
-
-Our undergraduate majors are bound together by a common curiosity about who we are, how our world was shaped over time, and how the past informs our present lives. Being a history major is also a great preparation for a professional career in the fields of law, education, business, government and more.
-
-## Degrees and Programs of Study
-
-### Major in History
-
+## BA in History
+**NEED A DESCRIPTION ABOUT BENEFITS OF THIS DEGREE, NOT COURSE REQUIREMENTS** 
 The history major consists of a step approach. Courses numbered 0800 through 1999 are introductory level; courses numbered 2000-2999 are intermediate level, and courses numbered 3000-4999 are advanced level. Courses with “9″ as a second digit are honors courses and are usually restricted to honors students.
 
-The history major requires 12 courses (36 credits). Students must take two introductory level courses, of which one is selected from courses numbered 0800-1099 and one from courses numbered 1100-1999. Three courses (9 credits) are required at the 2000 level. Four courses are required at the 3000 level, of which one must be a writing intensive course (ending in -96, -97, or -98), which students should take during the junior year. The 3000-level writing course is a prerequisite for the required 4000-level capstone-writing seminar (ending in -96, -97, or -98). The 4000-level capstone class should be taken during the senior year. Finally, students may select two history courses (6 credits) at any level.
+Learn More about the [Bachelor of Arts in History](http://bulletin.temple.edu/undergraduate/liberal-arts/history/ba-history/)
 
-Within these broad requirements, students must complete a minimum of two courses in U.S. history, two courses in European history, and three courses in Asian, African, Latin American or Global/Comparative history. Two of the courses in any category or level must be predominantly pre-1900 in content.
-
-Students should take four courses that represent an area of concentration based on some geographic or thematic intellectual rationale. The area of concentration should be defined in writing and approved by a departmental advisor ideally at the start of the junior year and no later than the start of the senior year.
-
-**Program Requirements**[http://bulletin.temple.edu/undergraduate/liberal-arts/history/ba-history/](http://bulletin.temple.edu/undergraduate/liberal-arts/history/ba-history/)
-
-### Minor in History
-
+## Minor in History
+**NEED A DESCRIPTION ABOUT BENEFITS OF THIS DEGREE, NOT COURSE REQUIREMENTS** 
 A History minor is an ideal complement to other majors and programs at Temple, from medicine to journalism, from computer science to finance, from film to marketing. Students with a minor in history are required to take six (6) courses totaling eighteen (18) semester hours. Of the six courses, at least two (2) must be numbered 2000 or above and at least one course (1) must be numbered 3000 or above.
 
-[**Program Requirements**](http://bulletin.temple.edu/undergraduate/liberal-arts/history/minor-history/)
+Learn More about the [Minor in History](http://bulletin.temple.edu/undergraduate/liberal-arts/history/minor-history/)
 
-### Honors in History
-
+## Honors in History
 There are three ways to enhance your History degree by achieving honors within the major:
 
 - Become a member of Phi Alpha Theta, the national History honors society
 - Become part of the History Honors Scholar program
 - Complete the requirements for Distinction in Major
 
-- **[Learn more about the honors program](http://bulletin.temple.edu/undergraduate/liberal-arts/history/ba-history/)**.
-
-## History Course Descriptions
-
-Detailed course descriptions are located in the [Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/courses/hist/).
-
-###  Curriculum
-
-History courses impart a range of valuable skills while also providing a lively forum for the discussion of ideas. While some courses are lecture-based, most classes blend lectures with discussions and debates. Along the way, History students learn important skills such as how to read for argument, how to conduct research, and how to articulate an idea and support it with evidence. Perhaps equally importantly, History students learn how to think critically and to formulate their own thoughts on a given topic.
-
-## Honors Program
-
 Through mentoring, university research funding, and scholarly events, the History Honors Scholar Program (founded in 2004) encourages and supports History majors in making the creative most of their undergraduate years.
 
 History Honors Scholars explore topics of their own choosing, conduct exciting research, and are guided by outstanding faculty in the History Department to produce works of true scholarship. History Honors students get an early start in their plans for graduate or professional schools and develop the analytic and research skills necessary for success in those post-graduate programs. These skills are indispensable for any career in the public sphere and further develop information literacy learned during matriculation in the General Education requirement.
 
-Through a careful sequencing of courses, students learn about the nature of primary sources in the discipline of history, the challenges of reading such sources critically, and the rhetorical practices of writing a complex historical argument. The History Honors Scholar Program encourages students to conceive of their work in broad interdisciplinary and geo-political contexts that link historical problems with art, film, literature, philosophy, politics, technology, science, gender studies, race studies, and postcolonial studies. Students complete the History Honors Scholar Program with a polished and closely argued thesis (a minimum of 8,000 words exclusive of footnotes and bibliography) suitable for publication in a scholarly journal. This thesis can serve as the core of a student’s dossier as she or he applies for graduate fellowships, professional schools, or post-baccalaureate employment.
+- Learn More about the [History Honors program](http://bulletin.temple.edu/undergraduate/liberal-arts/history/ba-history/)
 
 ### Application Requirements
-
 To participate in the History Honors Scholar Program, you must first apply to the University Honors office. Any History major who has earned or is in the process of earning 60 credits and has roughly a 3.7 cumulative GPA can apply for the program. The application form is available on the [Honors website](http://honors.temple.edu/). You should apply as soon as you are eligible so that you have maximum flexibility in scheduling the required coursework. Make an appointment to meet with the Director of the History Honors Scholar Program for advice on completing the application and to discuss your intellectual interests.
 
 ### Program Requirements
@@ -121,17 +86,13 @@ To participate in the History Honors Scholar Program, you must first apply to th
 Students in the program take six courses (18 credits), including Historiography and Research Methods (4934), the Honors Thesis Seminar (“Capstone”)(4997) and four upper-level Honors electives (any department). One of those electives can be an Honors Independent Study (4982) if the student’s thesis needs more work. With careful planning, these Honors courses can ALSO fulfill the requirements for the History major, so that students need not delay graduation. For example, the Thesis Seminar (4997) fulfills the normal “capstone/writing” requirement, and the electives, if chosen from History offerings, will also fulfill major requirements. Students must maintain a 3.4 GPA in History and a 3.4 GPA overall.
 
 ### Program Activities
-
 Graduating students in the Honors Program participate in an Honors Symposium in the late spring of their graduating year. At the symposium students will present a ten-minute long synopsis of their Honors Thesis to the community of History Majors and faculty. The presentations describe their thesis journey: how they formulated their thesis problem, what kinds of sources they used to investigate their problem, and their reflections on their arguments and findings.
 
 ### Funding and Support
-
 Honors Students can apply for financial support to cover research related activities, such as visits to archives, travel to present scholarly papers etc., up to $2,000 through the [Undergraduate Research Incentive Fund](http://www.temple.edu/vpus/opportunities/URIF.htm). There are also funds available in the [Diamond Research Scholars program](http://www.temple.edu/vpus/opportunities/researchscholars.htm). Honors students are also encouraged to submit their completed thesis to the [Library Prize for Undergraduate Research](http://guides.temple.edu/libraryprize).
 
 ### Social Events
-
 The History Department will host an HONORS box lunch at the opening of each semester to encourage the growth of a vibrant community of undergraduate scholars.
 
 ### Alpha Theta
-
 Phi Alpha Theta is a national History Honors Society that is open to both history majors and non-majors who have completed more than 12 credits in history and achieved a history GPA of 3.25 and a cumulative GPA of 3.1. To join Phi Alpha Theta you DO NOT need to participate in the History Honors Scholars Program. For information, contact the Phi Alpha Theta advisor, Dr. Monica Ricketts, [mrickett@temple.edu](mailto:mrickett@temple.edu).
