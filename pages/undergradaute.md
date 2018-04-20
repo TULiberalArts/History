@@ -82,7 +82,6 @@ History Honors Scholars explore topics of their own choosing, conduct exciting r
 To participate in the History Honors Scholar Program, you must first apply to the University Honors office. Any History major who has earned or is in the process of earning 60 credits and has roughly a 3.7 cumulative GPA can apply for the program. The application form is available on the [Honors website](http://honors.temple.edu/). You should apply as soon as you are eligible so that you have maximum flexibility in scheduling the required coursework. Make an appointment to meet with the Director of the History Honors Scholar Program for advice on completing the application and to discuss your intellectual interests.
 
 ### Program Requirements
-
 Students in the program take six courses (18 credits), including Historiography and Research Methods (4934), the Honors Thesis Seminar (“Capstone”)(4997) and four upper-level Honors electives (any department). One of those electives can be an Honors Independent Study (4982) if the student’s thesis needs more work. With careful planning, these Honors courses can ALSO fulfill the requirements for the History major, so that students need not delay graduation. For example, the Thesis Seminar (4997) fulfills the normal “capstone/writing” requirement, and the electives, if chosen from History offerings, will also fulfill major requirements. Students must maintain a 3.4 GPA in History and a 3.4 GPA overall.
 
 ### Program Activities
