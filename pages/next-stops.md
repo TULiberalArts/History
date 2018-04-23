@@ -7,7 +7,6 @@ description: >-
 published: true
 ---
 ## Next Stops:
-
 Our students have interned at organizations like the Constitution Center and the Historical Society of Pennsylvania. Philadelphia’s rich museum heritage provides abundant opportunities for students to pursue
 their interests.
 
@@ -24,14 +23,14 @@ Graduates have gone on to successful careers, including:
 - Public policy expert
 - Museum Curator
 
+- You can view a [full pdf](https://liberalarts.temple.edu/sites/liberalarts/files/TEMPLE%20HISTORY%20PH.pdf) of alumni and their places of employment.
+
 ## Make Your Declaration
-​
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
-​
+
 For a complete list of our academic offerings visit [liberalarts.temple.edu](liberalarts.temple.edu)
-​
+
 ## Visit Us!
-​
 The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](temple.edu/visit). If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit opportunities we have throughout the year, including the Liberal Arts Preview Day.
 ​
 ## Thinking Of Transferring?
