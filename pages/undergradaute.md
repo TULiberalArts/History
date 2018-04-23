@@ -42,7 +42,7 @@ sidebar-content: |
    [vcampbel@temple.edu](mailto:vcampbel@temple.edu)
 ---
 
-Our undergraduate majors are bound together by a common curiosity about who we are, how our world was shaped over time, and how the past informs our present lives.Being a history major is also a great preparation for a professional career in the fields of law, education, business, government and more.
+Our undergraduate majors are bound together by a common curiosity about who we are, how our world was shaped over time, and how the past informs our present lives. Being a history major is also a great preparation for a professional career in the fields of law, education, business, government and more.
 
 ## The Cradle Of American History And Its Global Connections
 Our home, Philadelphia, is a terrific place to study history — not only of the city and its remarkable past, but of the world as well. Our courses take advantage of Philly’s exciting past and our major allows students to take advantage of the many study abroad options available at Temple.
