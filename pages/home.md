@@ -20,7 +20,7 @@ Using rigorous standards of evidence, historians tell meaningful stories about t
 - [BA in History](http://bulletin.temple.edu/undergraduate/liberal-arts/history/ba-history/)
 - [Minor in History](http://bulletin.temple.edu/undergraduate/liberal-arts/history/minor-history/)
 - [MA in History](http://bulletin.temple.edu/graduate/scd/cla/history-ma/)
-- MA in History (Public History Concentration)
+- [MA in History:Public History Concentration](https://sites.temple.edu/centerforpublichistory/graduate-program/)
 - [PhD in History](http://bulletin.temple.edu/graduate/scd/cla/history-phd/)
 
 <div class="row row-wide">
