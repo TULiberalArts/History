@@ -18,6 +18,7 @@ Learn More about our Teach-Ins!:
 - An article about the teach-ins in the March 2010 issue of the AHA’s [Perspectives on History](https://www.historians.org/publications-and-directories/perspectives-on-history/march-2010/teaching-history-sixties-style-at-temple-university)
 
 ## The James A. Barnes Club
+![James A. Barnes Club]({{site.baseurl}}/media/resized James A Barnes logo.png){:.img-right}
 The purpose of the James A. Barnes Club is to foster a sense of community among the graduate students in the History Department. Graduate study is not only intellectually challenging (and rewarding), but emotionally draining as well. Coursework is intense, and graduate students in the History Department shuttle between Temple University’s Center City Campus (TUCC) and Main Campus; often without seeing a sympathetic fellow graduate student. All too often, graduate school can be an isolating, intimidating place. The Barnes Club works to change that.
 
 Our organization is a support group for the concerns and issues that graduate students face each day. The Barnes Club serves as a vital liaison between graduate history students and the History Department, informing students about department events and voicing our concerns to the faculty. The Barnes Club email list distributes important information on department events and activities, conference and career opportunities, and Barnes Club social events to our members.
