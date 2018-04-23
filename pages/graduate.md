@@ -96,3 +96,9 @@ Ph.D. candidates are eligible for appointment as part-time instructors. The Depa
 
 ## Annual Conference
 Graduate students in the Department of History at Temple University host the James A. Barnes Club Graduate Student Conference annually. The Barnes Club Conference is one of the largest and most prestigious graduate student conferences in the region, drawing participants from across the nation and around the world. The annual two-day conference takes place in March during the spring semester.  It gives rising scholars the opportunity to present their projects, receive critical feedback, and network to establish and expand their academic communities. Select conference papers are awarded cash prizes in various geographical and scholarly categories.
+
+## Graduate Resources
+- [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm) 
+- [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm) 
+- [Data Sheet for Graduation Applications](https://liberalarts.temple.edu/sites/liberalarts/files/History_Department_Graduate_Application_Data_Sheet_0.pdf)
+- [The Comprehensive Exam: Strategies for Success](https://liberalarts.temple.edu/sites/liberalarts/files/The%20Comprehensive%20Exam.docx)
