@@ -25,15 +25,15 @@ Using rigorous standards of evidence, historians tell meaningful stories about t
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
-    title=" " 
-    content=" " 
+    title="Dissent in America Teach-Ins" 
+    content="Evolving from Prof. Ralph Young’s Dissent in America course, students gather to discuss the historical background to the current political situation in the world." 
     image="" 
-    button-link=" " 
+    button-link="history/student-life#dissent-in-america-teach-ins/" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
-      title=" " 
+      title="NEED CONTENT" 
       content=" " 
       image="" 
       button-link=" " 
@@ -41,7 +41,7 @@ Using rigorous standards of evidence, historians tell meaningful stories about t
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title=" " 
+        title="NEED CONTENT" 
         content=" " 
         image="" 
         button-link=" " 
