@@ -14,8 +14,8 @@ Evolving from Prof. Ralph Young’s Dissent in America course, students gather t
 Learn More about our Teach-Ins!:
 - The article “The Right to Dissent” in the 2003 Philadelphia Inquirer article, [History Scholars Fight Present War](http://www.peace.ca/professorsrally.htm).
 - The Associated Press & WPVI Channel 6 report on the Oct. 15, 2004 teach-in. The [AP article](http://www.cla.temple.edu/history/2004/10/19/veteran-earns-dissenters-respect-at-teach-in/) was published in over 50 news sources including CNN_, The Washington Post, The Guardian, New York Newsday, The Miami Herald, The Chicago Sun-Times_ & many others.
-- Professor Young’s article on dissent in the July 2004 issue of [USA Today Magazine](http://www.cla.temple.edu/history/files/2014/04/DISSENT.pdf).
-- An article about the teach-ins in the March 2010 issue of the AHA’s [Perspectives on History](http://www.cla.temple.edu/history/2010/03/18/teaching-history-sixties-style-at-temple-university/)
+- Professor Young’s article on dissent in the July 2004 issue of [USA Today Magazine](https://liberalarts.temple.edu/sites/liberalarts/files/DISSENT.pdf).
+- An article about the teach-ins in the March 2010 issue of the AHA’s [Perspectives on History](https://www.historians.org/publications-and-directories/perspectives-on-history/march-2010/teaching-history-sixties-style-at-temple-university)
 
 ## The James A. Barnes Club
 The purpose of the James A. Barnes Club is to foster a sense of community among the graduate students in the History Department. Graduate study is not only intellectually challenging (and rewarding), but emotionally draining as well. Coursework is intense, and graduate students in the History Department shuttle between Temple University’s Center City Campus (TUCC) and Main Campus; often without seeing a sympathetic fellow graduate student. All too often, graduate school can be an isolating, intimidating place. The Barnes Club works to change that.
