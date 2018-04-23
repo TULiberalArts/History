@@ -41,7 +41,7 @@ sidebar-content: |
    [(215) 204-7839](tel:2152047839)  
    [vcampbel@temple.edu](mailto:vcampbel@temple.edu)
 ---
-
+![History Undergraduate]({{site.baseurl}}/media/RESIZED history undergraduate.png){:.img-right}
 Our undergraduate majors are bound together by a common curiosity about who we are, how our world was shaped over time, and how the past informs our present lives. Being a history major is also a great preparation for a professional career in the fields of law, education, business, government and more.
 
 ## The Cradle Of American History And Its Global Connections
