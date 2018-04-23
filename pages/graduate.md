@@ -63,8 +63,8 @@ The M.A. program is designed to provide graduate students with a strong foundati
 
 Learn More About the [MA in History](http://bulletin.temple.edu/graduate/scd/cla/history-ma/#text)
 
-![Public History]({{site.baseurl}}/media/resized history graduate.png){:.img-right}
 ## Concentration in Public History
+![Public History]({{site.baseurl}}/media/resized history graduate.png){:.img-right}
 MA students in Temple’s 2-year Public History concentration choose from a variety of advanced graduate courses in American history accompanied by specialized Public History courses. Every Public History course is built around a significant community-engagement project. And every student acquires real-world experience through a host of internships hosted throughout the Philadelphia area.
 
 Applicants must indicate their intent to concentrate in Public History. A limited number of tuition waivers and fellowships are awarded each year to the most qualified applicants. Please contact the [Director of Public History](mailto:hilowe@temple.edu) for additional information about application requirements and funding opportunities. **Applications for fall admission must be submitted by February 15.**
