@@ -28,7 +28,7 @@ Using rigorous standards of evidence, historians tell meaningful stories about t
     title="Dissent in America Teach-Ins" 
     content="Evolving from Prof. Ralph Young’s Dissent in America course, students gather to discuss the historical background to the current political situation in the world." 
     image="" 
-    button-link="history/student-life#dissent-in-america-teach-ins/" 
+    button-link="/history/student-life#dissent-in-america-teach-ins" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
