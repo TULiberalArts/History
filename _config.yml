@@ -56,9 +56,8 @@ university:
   url: https://temple.edu/
 college:
   name: College of Liberal Arts
-  url: https://liberalarts.temple.edu/
-  
-program_news: https://liberalarts.temple.edu/news/history/view
+  url: https://liberalarts.temple.edu/  
+program_news: https://liberalarts.temple.edu/news/history/
 program_events: https://events.temple.edu/department/history
 
 
