@@ -2,7 +2,7 @@
 title: Undergraduate
 permalink: /undergraduate/
 layout: page
-keywords: ''
+keywords: 'major, minor, concentration, undergraduate, coursework, honors, funding, alpha theta'
 description: >-
 published: true
 sidebar: true
