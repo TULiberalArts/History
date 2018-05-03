@@ -2,11 +2,11 @@
 title: Next Stops
 permalink: /next-stops/
 layout: page
-keywords: ''
+keywords: 'careers, visit, transfer, apply'
 description: >-
 published: true
 ---
-## Next Stops:
+## Careers and Beyond
 Our students have interned at organizations like the Constitution Center and the Historical Society of Pennsylvania. Philadelphia’s rich museum heritage provides abundant opportunities for students to pursue
 their interests.
 
