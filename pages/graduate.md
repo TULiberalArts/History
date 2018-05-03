@@ -2,6 +2,8 @@
 title: Graduate
 permalink: /graduate/
 layout: page
+keywords: 'graduate studies, masters, phd, teachers assistant, fellowships, grants, resources'
+description: >- 
 published: true
 sidebar: true
 sidebar-content: |
