@@ -2,6 +2,8 @@
 title: Student Life
 permalink: /student-life/
 layout: page
+keywords: 'dissent in america, james a barnes club, awards and scholarships'
+description: >-
 published: true
 ---
 
