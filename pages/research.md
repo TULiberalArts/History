@@ -2,7 +2,7 @@
 title: Research
 permalink: /research/
 layout: page
-keywords: ''
+keywords: 'research centers, feinstein, center for public history, cenfad'
 description: >- 
 published: true
 ---
