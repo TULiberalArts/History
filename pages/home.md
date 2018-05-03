@@ -3,7 +3,7 @@ title: Home
 permalink: /
 layout: home3
 description: >-
-keywords: ''
+keywords: 'academic offerings, undergraduate, graduate, history concentration'
 feature: true
 feature-title: Develop skills useful for any career that requires high-level critical thinking, wide-ranging analytical skills and great writing. 
 feature-image: media/old-family-photo.png
