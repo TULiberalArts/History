@@ -42,7 +42,7 @@ sidebar-content: |
    [vcampbel@temple.edu](mailto:vcampbel@temple.edu)
 ---
 ![History Undergraduate]({{site.baseurl}}/media/RESIZED history undergraduate.png){:.img-right}
-Our undergraduate majors are bound together by a common curiosity about who we are, how our world was shaped over time, and how the past informs our present lives. Being a history major is also a great preparation for a professional career in the fields of law, education, business, government and more.
+College of Liberal Arts undergraduate history degree majors are bound together by a common curiosity about who we are, how our world was shaped over time, and how the past informs our present lives. Being a history major is also a great preparation for a professional career in the fields of law, education, business, government and more. So come learn history in the birthplace of the nation, where you’ll find exciting coursework at Temple University, administered by our internally recognized faculty. Students can [major](#ba-in-history) or [minor](#minor-in-history) in history and even achieve [honors](#honors-in-history).
 
 ## The Cradle Of American History And Its Global Connections
 Our home, Philadelphia, is a terrific place to study history — not only of the city and its remarkable past, but of the world as well. Our courses take advantage of Philly’s exciting past and our major allows students to take advantage of the many study abroad options available at Temple.
