@@ -6,6 +6,14 @@ keywords: 'dissent in america, james a barnes club, awards and scholarships'
 description: >-
 published: true
 ---
+## Temple University History and Social Science Association (TUHSSA)
+![Walking tour of the Rittenhouse Square Neighborhood with Dr. Dale Winling]({{site.baseurl}}/media/resized TUHSSA.png){:.img-right}
+Temple University History and Social Science Association is the main undergraduate student group for History majors and minors. TUHSSA’s main objective is to serve undergraduate students interested in history, political science, and economics. We sponsor a lecture series, historical movie nights, panels for students, day trips to historical sites and much more. TUHSSA also provides a tutoring service, and publishes an annual Undergraduate History Journal. In addition, TUHSSA works closely with CENFAD, the Dissent in America Teach-Ins and the history honors program.
+
+- For more information, or if you’d like to join, please contact us at [tuhssa@gmail.com](mailto:tuhssa@gmail.com). 
+
+- Connect with TUHSSA on [Facebook](http://www.facebook.com/group.php?gid=72543762899) and [Twitter](http://www.twitter.com/tuhssa)! 
+
 ## The James A. Barnes Club
 ![James A. Barnes Club]({{site.baseurl}}/media/resized James A Barnes logo.png){:.img-right}
 The purpose of the James A. Barnes Club is to foster a sense of community among the graduate students in the History Department. Graduate study is not only intellectually challenging (and rewarding), but emotionally draining as well. Coursework is intense, and graduate students in the History Department shuttle between Temple University’s Center City Campus (TUCC) and Main Campus; often without seeing a sympathetic fellow graduate student. All too often, graduate school can be an isolating, intimidating place. The Barnes Club works to change that.
