@@ -25,6 +25,29 @@ Graduates have gone on to successful careers, including:
 
 - You can view a [full pdf](https://liberalarts.temple.edu/sites/liberalarts/files/TEMPLE%20HISTORY%20PH.pdf) of alumni and their places of employment.
 
+## Notable Alumni
+So many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni who have risen to levels of professional acclaim and successes! 
+
+**_Alumni Spotlight_**
+
+- [Dan Kunze](https://liberalarts.temple.edu/news/meet-alumnus-dan-kunze)<br/> 
+  Manages a $10M business for the world’s leading technology research and advisory firm based in Tennessee and Kentucky.<br/>  
+  Officer in Cyber Operations for the U.S. Army responsible for supporting Asia Pacific.<br/> 
+  B.A. in History with Honors from Temple in 2008<br/> 
+  
+- [Amira Rose Davis](https://liberalarts.temple.edu/news/alumni-spotlight-amira-rose-davis)<br/> 
+  Assistant Professor of History and Women’s Gender and Sexuality Studies at Penn State University<br/> 
+  B.A. in History from Temple in 2011<br/> 
+  
+- [Olivia D’Aiutolo](https://liberalarts.temple.edu/news/alumni-spotlight-olivia-d-aiutolo)<br/> 
+  Donor Relations at The Colonial Williamsburg Foundation<br/> 
+  B.A. in History with an Italian Language Certificate from Temple in 2016<br/> 
+
+- [Matthew Daley](https://liberalarts.temple.edu/news/alumni-spotlight-matthew-daley-writer-lantern-city-comic-book-series-and-upcoming-not-so-secret)<br/> 
+  B.A. in History from Temple<br/> 
+ 
+___ 
+  
 ## Make Your Declaration
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
 
