@@ -33,18 +33,18 @@ Using rigorous standards of evidence, historians tell meaningful stories about t
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
-      title="NEED CONTENT" 
-      content=" " 
+      title="Center for Public History" 
+      content="Temple University’s Center for Public History (CPH) aims to be the preeminent provider of Public History training in the greater Philadelphia area." 
       image="" 
-      button-link=" " 
+      button-link="/history/research#center-for-public-history/" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title="NEED CONTENT" 
-        content=" " 
+        title="Center for the Study of Force and Diplomacy" 
+        content="Housed with the History Department, CENFAD fosters interdisciplinary faculty and student research on the historic and contemporary use of force and diplomacy in a global context." 
         image="" 
-        button-link=" " 
+        button-link="https://develop.cla.temple.edu/center-for-the-study-of-force-and-diplomacy/" 
         button-text="Learn More" %}
       </div>
 </div>
