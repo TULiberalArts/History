@@ -6,6 +6,8 @@ keywords: 'dissent in america, james a barnes club, awards and scholarships'
 description: >-
 published: true
 ---
+History is happening all around you—not just in the classroom. College of Liberal Arts History degree students can join an association or [club](#he-james-a-barnes-club), work toward [awards or scholarships](#awards-and-scholarships), conduct research at the Center for the Study of Force and Diplomacy, and/or attend weekly [Teach-Ins](#dissent-in-america-teach-ins).
+
 ## Temple University History and Social Science Association (TUHSSA)
 ![Walking tour of the Rittenhouse Square Neighborhood with Dr. Dale Winling]({{site.baseurl}}/media/resized TUHSSA.png){:.img-right}
 Temple University History and Social Science Association is the main undergraduate student group for History majors and minors. TUHSSA’s main objective is to serve undergraduate students interested in history, political science, and economics. We sponsor a lecture series, historical movie nights, panels for students, day trips to historical sites and much more. TUHSSA also provides a tutoring service, and publishes an annual Undergraduate History Journal. In addition, TUHSSA works closely with CENFAD, the Dissent in America Teach-Ins and the history honors program.
