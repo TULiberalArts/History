@@ -11,7 +11,7 @@ History degree and history minor students have access to three incredible resear
 
 ![The Center for the Study of Force and Diplomacy]({{site.baseurl}}/media/resized CENFAD_LOGO.jpg){:.img-right}
 ## The Center for the Study of Force and Diplomacy
-[The Center for the Study of Force and Diplomacy (CENFAD)](http://www.temple.edu/cenfad/), founded in 1993 by Drs. Richard Immerman, Russell Weigley and David Rosenberg, fosters interdisciplinary faculty and student research on the historic and contemporary use of force and diplomacy in a global context.
+[The Center for the Study of Force and Diplomacy (CENFAD)](https://develop.cla.temple.edu/center-for-the-study-of-force-and-diplomacy/), founded in 1993 by Drs. Richard Immerman, Russell Weigley and David Rosenberg, fosters interdisciplinary faculty and student research on the historic and contemporary use of force and diplomacy in a global context.
 
 ___
 
