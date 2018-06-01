@@ -1,10 +1,14 @@
 ---
-title: Student Life
+# global predefined variables
+layout: tla_page
 permalink: /student-life/
-layout: page
-keywords: 'dissent in america, james a barnes club, awards and scholarships'
-description: >-
 published: true
+# meta-data variables
+title: Student Life
+description: >-
+keywords: 'dissent in america, james a barnes club, awards and scholarships'
+# custom variables
+sidebar: false
 ---
 History is happening all around you—not just in the classroom. College of Liberal Arts History degree students can join an association or [club](#he-james-a-barnes-club), work toward [awards or scholarships](#awards-and-scholarships), conduct research at the Center for the Study of Force and Diplomacy, and/or attend weekly [Teach-Ins](#dissent-in-america-teach-ins).
 
