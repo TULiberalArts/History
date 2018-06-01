@@ -1,56 +1,15 @@
 ---
-title: Graduate
+# global predefined variables
+layout: tla_page
 permalink: /graduate/
-layout: page
-keywords: 'graduate studies, masters, phd, teachers assistant, fellowships, grants, resources'
-description: >- 
 published: true
+# meta-data variables
+title: Graduate
+description: >-
+keywords: 'graduate studies, masters, phd, teachers assistant, fellowships, grants, resources' 
+# custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Jay Lockenour  
-   909 Gladfelter Hall  
-   [(215) 204-7437](tel:2152047437)  
-   [jay.lockenour@temple.edu](mailto:jay.lockenour@temple.edu)  
-   
-   ___
-   
-   **Director of Graduate Studies:**  
-   Bryant Simon  
-   949 Gladfelter Hall    
-   [brysimon@temple.edu](mailto:brysimon@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Maggie Cogswell  
-   1008A Gladfelter Hall   
-   [(215) 204-9209](tel:2152049209)  
-   [tuf70408@temple.edu](mailto:tuf70408@temple.edu)  
-   
-   ___
-
-   **Coordinators:**  
-   Djuna Witherspoon  
-   910 Gladfelter Hall    
-   [(215) 204-7750](tel:2152044997)   
-   [djuna@temple.edu](mailto:djuna@temple.edu)  
-
-   Vangeline Campbell  
-   911 Gladfelter Hall    
-   [(215) 204-7839](tel:2152047839)  
-   [vcampbel@temple.edu](mailto:vcampbel@temple.edu)    
-   
-   **MA Coordinator:**    
-   Jessica Roney  
-   950 Gladfelter Hall      
-   [jessica.roney@temple.edu](mailto:jessica.roney@temple.edu)    
-   
-   **MA Public History Coordinator:**    
-   Hilary Lowe  
-   948 Gladfelter Hall    
-   [(215) 204-1494](tel:2152041494)  
-   [hilowe@temple.edu](mailto:hilowe@temple.edu)
+sidebar_content: sidebars/graduate.html
 ---
 At the College of Liberal Arts, graduate students further their knowledge of history in the place where American history was born: Philadelphia. Earn your history [masters of arts](#ma-in-history) at Temple University and consider [concentrating in public history](#concentration-in-public-history). Already have a history master’s? We also offer a history [PhD](#phd-in-history). Learn more about our [admissions process](#admissions-process), becoming a [teaching assistant](#teaching-assistantships), earning [university-awarded fellowships](#university-awarded-fellowships), completing your [dissertation](#dissertation-completion-grant), becoming a [part-time instructor](#appointment-as-part-time-instructor) and attending our [annual conference](#annual-conference). Still need more info? Check out our history [graduate school resources](#graduate-resources).
 
