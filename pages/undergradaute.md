@@ -1,45 +1,15 @@
 ---
-title: Undergraduate
+# global predefined variables
+layout: tla_page
 permalink: /undergraduate/
-layout: page
-keywords: 'major, minor, concentration, undergraduate, coursework, honors, funding, alpha theta'
-description: >-
 published: true
+# meta-data variables
+title: Undergraduate
+description: >-
+keywords: 'major, minor, concentration, undergraduate, coursework, honors, funding, alpha theta'
+# custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Jay Lockenour  
-   909 Gladfelter Hall  
-   [(215) 204-7437](tel:2152047437)  
-   [jay.lockenour@temple.edu](mailto:jay.lockenour@temple.edu)  
-   
-   ___
-   
-   **Undergraduate Chair:**  
-   Rita Krueger  
-   919 Gladfelter Hall    
-   [rita.krueger@temple.edu](mailto:rita.krueger@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Maggie Cogswell  
-   1008A Gladfelter Hall   
-   [(215) 204-9209](tel:2152049209)  
-   [tuf70408@temple.edu](mailto:tuf70408@temple.edu)  
-   
-   ___
-
-   **Coordinators:**  
-   Djuna Witherspoon  
-   910 Gladfelter Hall    
-   [(215) 204-7750](tel:2152044997)   
-   [djuna@temple.edu](mailto:djuna@temple.edu)  
-
-   Vangeline Campbell  
-   911 Gladfelter Hall    
-   [(215) 204-7839](tel:2152047839)  
-   [vcampbel@temple.edu](mailto:vcampbel@temple.edu)
+sidebar_content: sidebars/undergraduate.html
 ---
 ![History Undergraduate]({{site.baseurl}}/media/RESIZED history undergraduate.png){:.img-right}
 College of Liberal Arts undergraduate history degree majors are bound together by a common curiosity about who we are, how our world was shaped over time, and how the past informs our present lives. Being a history major is also a great preparation for a professional career in the fields of law, education, business, government and more. So come learn history in the birthplace of the nation, where you’ll find exciting coursework at Temple University, administered by our internally recognized faculty. Students can [major](#ba-in-history) or [minor](#minor-in-history) in history and even achieve [honors](#honors-in-history).
