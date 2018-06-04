@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Student Life
 description: >-
+  Join the Temple University History and Social Science Association, the James A. Barnes Club, attend Teach-ins,
+  conduct research, and apply for awards and scholarships as a History student at Temple University’s College of Liberal Arts.
 keywords: 'dissent in america, james a barnes club, awards and scholarships'
 # custom variables
 sidebar: false
