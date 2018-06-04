@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Research
 description: >- 
+  Conduct research at the Center for the Study of Force and Diplomacy (CENFAD), the Feinstein Center for American Jewish 
+  History, and the Center for Public History by studying History at Temple University’s College of Liberal Arts.
 keywords: 'research centers, feinstein, center for public history, cenfad'
 # custom variables
 sidebar: false
