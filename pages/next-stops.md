@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
+   See where a degree in History from Temple University can take you! Consider interning at organizations such as the 
+   Constitution Center, and check out where alumni have gone in their careers. Visit us, view your transfer options, and apply!
 keywords: 'careers, visit, transfer, apply'
 # custom variables
 sidebar: false
