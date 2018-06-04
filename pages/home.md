@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Home
 description: >-
+  Understand our world in context: earn an undergraduate or graduate-level degree in History 
+  at the College of Liberal Arts at Temple University. Explore our academic offerings and history concentration.
 keywords: 'academic offerings, undergraduate, graduate, history concentration'
 # custom variables
 sidebar: false
