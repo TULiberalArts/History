@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
+  Major, minor, or receive a concentration or honors in History at Temple University. Coursework in the
+  College of Liberal Arts prepares students for careers in law, education, business, government, and more.
 keywords: 'major, minor, concentration, undergraduate, coursework, honors, funding, alpha theta'
 # custom variables
 sidebar: true
