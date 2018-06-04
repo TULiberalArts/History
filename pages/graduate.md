@@ -6,6 +6,9 @@ published: true
 # meta-data variables
 title: Graduate
 description: >-
+  Earn a master’s or PhD in History, or consider concentrating in public history. Learn more about admissions, 
+  being a teaching assistant, earning fellowships, completing your dissertation, being a part-time instructor, 
+  and attending an annual conference at the College of Liberal Arts at Temple University.
 keywords: 'graduate studies, masters, phd, teachers assistant, fellowships, grants, resources' 
 # custom variables
 sidebar: true
