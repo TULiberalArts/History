@@ -37,8 +37,8 @@ So many of our distinguished alumni have gone on to great accomplishments. The s
 **_Alumni Spotlight_**
 
 - [Dan Kunze](https://liberalarts.temple.edu/news/meet-alumnus-dan-kunze)<br/> 
-  Manages a $10M business for the world’s leading technology research and advisory firm based in Tennessee and Kentucky.<br/>  
-  Officer in Cyber Operations for the U.S. Army responsible for supporting Asia Pacific.<br/> 
+  - Manages a $10M business for the world’s leading technology research and advisory firm based in Tennessee and Kentucky.<br/>  
+  - Officer in Cyber Operations for the U.S. Army responsible for supporting Asia Pacific.<br/> 
   B.A. in History with Honors from Temple in 2008<br/> 
   
 - [Amira Rose Davis](https://liberalarts.temple.edu/news/alumni-spotlight-amira-rose-davis)<br/> 
