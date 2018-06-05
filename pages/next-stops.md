@@ -41,6 +41,7 @@ So many of our distinguished alumni have gone on to great accomplishments. The s
   - Officer in Cyber Operations for the U.S. Army responsible for supporting Asia Pacific.<br/> 
   B.A. in History with Honors from Temple in 2008<br/> 
   
+  
 - [Amira Rose Davis](https://liberalarts.temple.edu/news/alumni-spotlight-amira-rose-davis)<br/> 
   Assistant Professor of History and Women’s Gender and Sexuality Studies at Penn State University<br/> 
   B.A. in History from Temple in 2011<br/> 
