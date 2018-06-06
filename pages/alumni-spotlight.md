@@ -2,7 +2,7 @@
 # global predefined variables
 layout: tla_page
 permalink: /alumni-spotlight/
-published: true
+published: false
 # meta-data variables
 title: Alumni Spotlight
 description: >-
