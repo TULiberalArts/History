@@ -20,13 +20,13 @@ feature-body:
   a foundation for lifelong learning, civic engagement and successful careers.
 ---
 ## More than Just Studying the Past
-Using rigorous standards of evidence, historians tell meaningful stories about the past. In-depth historical study gives students important tools for understanding contemporary issues affecting their own lives as well as local, national and global events. The College of Liberal Arts Department of History includes over 30 faculty members, 400 History majors, and more than 100 MA and PhD students. We train executives, lawyers, politicians, educators, preservationists and tomorrow’s historians. Rich regional resources and acclaimed research centers ensure Temple university a prominent voice in global conversations about the past.
+Using rigorous standards of evidence, historians tell meaningful stories about the past. In-depth historical study gives students important tools for understanding contemporary issues affecting their own lives as well as local, national and global events. The College of Liberal Arts Department of History includes over 30 faculty members, 400 History majors, and more than 100 MA and PhD students. We train executives, lawyers, politicians, educators, preservationists and tomorrow’s historians. Rich regional resources and acclaimed research centers ensure Temple University a prominent voice in global conversations about the past.
 
 ## Academic Offerings
 - [BA in History](http://bulletin.temple.edu/undergraduate/liberal-arts/history/ba-history/)
 - [Minor in History](http://bulletin.temple.edu/undergraduate/liberal-arts/history/minor-history/)
 - [MA in History](http://bulletin.temple.edu/graduate/scd/cla/history-ma/)
-- [MA in History:Public History Concentration](https://sites.temple.edu/centerforpublichistory/graduate-program/)
+- [MA in History: Public History Concentration](https://sites.temple.edu/centerforpublichistory/graduate-program/)
 - [PhD in History](http://bulletin.temple.edu/graduate/scd/cla/history-phd/)
 
 ___
