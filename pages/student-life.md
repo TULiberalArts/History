@@ -57,12 +57,12 @@ Awarded to a Temple University graduate student of military or diplomatic histor
 
 ## Dissent in America Teach-Ins
 ![Dissent in America Teach-In]({{site.baseurl}}/media/resized history_teach in.png){:.img-right} 
-Evolving from Prof. Ralph Young’s Dissent in America course, students gather to discuss the historical background to the current political situation in the world. The Teach-ins are held Fridays, 2:00 pm to 3:30 pm in 914 Gladfelter Hall (the Weigley Room). Plesae check the [Temple University Calendar of Events](https://events.temple.edu/department/college-of-liberal-arts) at the beginning of the semester to see the teach-in schedule.
+Evolving from Prof. Ralph Young’s Dissent in America course, students gather to discuss the historical background to the current political situation in the world. The Teach-ins are held Fridays, 2:00 pm to 3:30 pm in 914 Gladfelter Hall (the Weigley Room). Please check the [Temple University Calendar of Events](https://events.temple.edu/department/college-of-liberal-arts) at the beginning of the semester to see the teach-in schedule.
 - If you have a suggestion or idea for a speaker or topic, please fill out the following [form](https://form.jotform.com/81094750388161).
 - Follow the Dissent in America Teach-ins on [Facebook](https://www.facebook.com/pages/Dissent-in-America-Teach-in/1409419602625923)! 
 
 Learn More about our Teach-Ins!:
 - The article “The Right to Dissent” in the 2003 Philadelphia Inquirer article, [History Scholars Fight Present War](http://www.peace.ca/professorsrally.htm).
-- The Associated Press & WPVI Channel 6 report on the Oct. 15, 2004 teach-in. The [AP article](http://www.cla.temple.edu/history/2004/10/19/veteran-earns-dissenters-respect-at-teach-in/) was published in over 50 news sources including CNN_, The Washington Post, The Guardian, New York Newsday, The Miami Herald, The Chicago Sun-Times_ & many others.
+- The Associated Press & WPVI Channel 6 report on the Oct. 15, 2004 teach-in. The [AP article](http://www.cla.temple.edu/history/2004/10/19/veteran-earns-dissenters-respect-at-teach-in/) was published in over 50 news sources including CNN, The Washington Post, The Guardian, New York Newsday, The Miami Herald, The Chicago Sun-Times, & many others.
 - Professor Young’s article on dissent in the July 2004 issue of [USA Today Magazine](https://liberalarts.temple.edu/sites/liberalarts/files/DISSENT.pdf).
 - An article about the teach-ins in the March 2010 issue of the AHA’s [Perspectives on History](https://www.historians.org/publications-and-directories/perspectives-on-history/march-2010/teaching-history-sixties-style-at-temple-university)
