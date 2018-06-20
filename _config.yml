@@ -5,6 +5,8 @@ title: History
 baseurl: /history
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
+# url spits sitemap
+url: https://www.cla.temple.edu/history
 
 
 # Program Information
