@@ -44,7 +44,7 @@ ___
       title="Center for Public History" 
       content="Temple University’s Center for Public History (CPH) aims to be the preeminent provider of Public History training in the greater Philadelphia area." 
       image="" 
-      button-link="/research#center-for-public-history/" 
+      button-link="/history/research#center-for-public-history/" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
