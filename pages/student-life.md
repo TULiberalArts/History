@@ -30,10 +30,14 @@ Our organization is a support group for the concerns and issues that graduate st
 
 Learn More about the [James A. Barnes Club](https://sites.temple.edu/barnesclub/)
 
+___
+
 ## Awards and Scholarships
 The History Department offers a number of awards to undergraduates who demonstrate excellence in their History courses. At the end of the spring term each academic year a handful of students are selected to receive recognition for their research and writing abilities.
 
 For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4588&field_awards_academics_class_value=All) page.
+
+___
 
 ## Center for the Study of Force and Diplomacy (CENFAD) Awards
 The Center for the Study of Force and Diplomacy (CENFAD) awards several additional fellowships and grants. They include:
@@ -54,6 +58,8 @@ Endowed research award for Temple University graduate students of diplomatic and
 Awarded to a Temple University graduate student of military or diplomatic history. Preference is given to students who incorporate a study of technology into their work.
 
 - The Department also awards the Allen Davis Endowed Fellowship in Public History (an incoming Ph.D. student who is interested in public history).
+
+___
 
 ## Dissent in America Teach-Ins
 ![Dissent in America Teach-In]({{site.baseurl}}/media/resized history_teach in.png){:.img-right} 
