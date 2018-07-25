@@ -72,3 +72,4 @@ Graduate students in the Department of History at Temple University host the Jam
 
 ___
 
+{% include {{ page.graduate_students_content }} %}
