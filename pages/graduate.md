@@ -69,3 +69,6 @@ Graduate students in the Department of History at Temple University host the Jam
 - [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm) 
 - [Data Sheet for Graduation Applications](https://liberalarts.temple.edu/sites/liberalarts/files/History_Department_Graduate_Application_Data_Sheet_0.pdf)
 - [The Comprehensive Exam: Strategies for Success](https://liberalarts.temple.edu/sites/liberalarts/files/The%20Comprehensive%20Exam.docx)
+
+___
+
