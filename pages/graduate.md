@@ -14,7 +14,7 @@ keywords: 'graduate studies, masters, phd, teachers assistant, fellowships, gran
 sidebar: true
 sidebar_content: sidebars/graduate.html
 graduate_students: true
-graduate_students_content: profiles/graduate_students2.html
+graduate_students_content: profiles/graduate_students_2.html
 ---
 At the College of Liberal Arts, graduate students further their knowledge of history in the place where American history was born: Philadelphia. Earn your history [masters of arts](#ma-in-history) at Temple University and consider [concentrating in public history](#concentration-in-public-history). Already have a history master’s? We also offer a history [PhD](#phd-in-history). Learn more about our [admissions process](#admissions-process), becoming a [teaching assistant](#teaching-assistantships), earning [university-awarded fellowships](#university-awarded-fellowships), completing your [dissertation](#dissertation-completion-grant), becoming a [part-time instructor](#appointment-as-part-time-instructor) and attending our [annual conference](#annual-conference). Still need more info? Check out our history [graduate school resources](#graduate-resources).
 
