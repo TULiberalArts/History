@@ -35,14 +35,14 @@ Learn More About the [MA in History](http://bulletin.temple.edu/graduate/scd/cla
 ![Public History]({{site.baseurl}}/media/resized history graduate.png){:.img-right}
 MA students in Temple’s 2-year Public History concentration choose from a variety of advanced graduate courses in American history accompanied by specialized Public History courses. Every Public History course is built around a significant community-engagement project. And every student acquires real-world experience through a host of internships hosted throughout the Philadelphia area.
 
-Applicants must indicate their intent to concentrate in Public History. A limited number of tuition waivers and fellowships are awarded each year to the most qualified applicants. Please contact the [Director of Public History](mailto:hilowe@temple.edu) for additional information about application requirements and funding opportunities. **Applications for fall admission must be submitted by February 15.**
+Applicants must indicate their intent to concentrate in Public History. A limited number of tuition waivers and fellowships are awarded each year to the most qualified applicants. Please contact the Director of Public History [Seth Bruggeman](mailto:scbrug@temple.edu) for additional information about application requirements and funding opportunities. **Applications for fall admission must be submitted by February 15.**
 
 Learn More About the [M.A Concentration in Public History](https://sites.temple.edu/centerforpublichistory/graduate-program/)
 
 ## Ph.D. in History
 The History Department’s Ph.D. program is a vibrant, engaged intellectual community of scholars and students. We work across all historical periods and methodologies. The thrust of the Ph.D. program is to prepare professional historians who are equipped to function in either academia or in public history.
 
-[Learn More About the Ph.D in Public History](http://bulletin.temple.edu/graduate/scd/cla/history-phd/#text)
+[Learn More About the Ph.D in History](http://bulletin.temple.edu/graduate/scd/cla/history-phd/#text)
 
 ## Admissions Process
 Please visit the [History Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/history) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
