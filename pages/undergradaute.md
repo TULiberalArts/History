@@ -14,7 +14,7 @@ sidebar: true
 sidebar_content: sidebars/undergraduate.html
 ---
 ![History Undergraduate]({{site.baseurl}}/media/RESIZED history undergraduate.png){:.img-right}
-College of Liberal Arts undergraduate history degree majors are bound together by a common curiosity about who we are, how our world was shaped over time, and how the past informs our present lives. Being a history major is also a great preparation for a professional career in the fields of law, education, business, government and more. So come learn history in the birthplace of the nation, where you’ll find exciting coursework at Temple University, administered by our internally recognized faculty. Students can [major](#ba-in-history) or [minor](#minor-in-history) in history and even achieve [honors](#honors-in-history).
+College of Liberal Arts undergraduate history degree majors are bound together by a common curiosity about who we are, how our world was shaped over time, and how the past informs our present lives. Being a history major is great preparation for a professional career in the fields of law, education, business, government and more. Learn history in the birthplace of the nation, where you’ll find exciting coursework at Temple University, administered by our internationally recognized faculty. Students can [major](#ba-in-history) or [minor](#minor-in-history) in history or pursue a bachelor’s degree with [honors](#honors-in-history).
 
 ## The Cradle Of American History And Its Global Connections
 Our home, Philadelphia, is a terrific place to study history — not only of the city and its remarkable past, but of the world as well. Our courses take advantage of Philly’s exciting past and our major allows students to take advantage of the many study abroad options available at Temple.
@@ -26,35 +26,50 @@ Our majors take rigorous courses in subjects such as Dissent in America, The His
 Our faculty members are both world-renowned scholars and award-winning teachers.
 
 ## BA in History
-**NEED A DESCRIPTION ABOUT BENEFITS OF THIS DEGREE, NOT COURSE REQUIREMENTS** 
-The history major consists of a step approach. Courses numbered 0800 through 1999 are introductory level; courses numbered 2000-2999 are intermediate level, and courses numbered 3000-4999 are advanced level. Courses with “9″ as a second digit are honors courses and are usually restricted to honors students.
+The major in History is designed to allow students maximum flexibility to pursue their interests, whether in particular time periods or world regions. In addition to the introductory classes and a wide range of upper-level coursework, students will build strong research, writing, communication, and analytical skills in a research and writing sequence composed of History 2001: The Historian's Craft, History 3096: Intermediate Writing Seminar, and History 4096: Capstone Seminar in History. 
+
+_Courses with “9″ as a second digit are honors courses and are usually restricted to honors students._
 
 Learn More about the [Bachelor of Arts in History](http://bulletin.temple.edu/undergraduate/liberal-arts/history/ba-history/)
 
 ## Minor in History
-**NEED A DESCRIPTION ABOUT BENEFITS OF THIS DEGREE, NOT COURSE REQUIREMENTS** 
-A History minor is an ideal complement to other majors and programs at Temple, from medicine to journalism, from computer science to finance, from film to marketing. Students with a minor in history are required to take six (6) courses totaling eighteen (18) semester hours. Of the six courses, at least two (2) must be numbered 2000 or above and at least one course (1) must be numbered 3000 or above.
+The History minor is an ideal complement to other majors and programs at Temple, from medicine to journalism, from computer science to finance, from film to marketing. Students with a minor in history are required to take six (6) courses totaling eighteen (18) semester hours.The six classes include two introductory classes, History 2001, and 3 classes above 2000.
 
 Learn More about the [Minor in History](http://bulletin.temple.edu/undergraduate/liberal-arts/history/minor-history/)
 
 ## Honors in History
 There are three ways to enhance your History degree by achieving honors within the major:
 
-- Become a member of Phi Alpha Theta, the national History honors society
-- Become part of the History Honors Scholar program
-- Complete the requirements for Distinction in Major
+- Become a part of the departmental honors thesis track, the History Honors Scholars Program
+- Become a part of the University Honors Program
+- Become a member of Phi Alpha Theta, the national history honors society
 
-Through mentoring, university research funding, and scholarly events, the History Honors Scholar Program (founded in 2004) encourages and supports History majors in making the creative most of their undergraduate years.
+## The History Honors Scholars Program
+The History Honors Scholar Program is a departmental honors thesis program that encourages and supports History majors in making the creative most of their undergraduate years.
 
-History Honors Scholars explore topics of their own choosing, conduct exciting research, and are guided by outstanding faculty in the History Department to produce works of true scholarship. History Honors students get an early start in their plans for graduate or professional schools and develop the analytic and research skills necessary for success in those post-graduate programs. These skills are indispensable for any career in the public sphere and further develop information literacy learned during matriculation in the General Education requirement.
+History Honors Scholars explore topics of their own choosing, conduct exciting research, and are guided by outstanding faculty in the History Department to produce works of true scholarship. History Honors  Scholars develop the analytic, research, and writing skills necessary for success in many fields. Past participants in the program have gone on to graduate programs in history and other subjects, to law school and other forms of professional training, and to a wide variety of other careers.  History Majors who successfully complete the History Honors Scholar Program and meet GPA requirements can also be awarded with “Distinction in History” when they graduate.
 
 - Learn More about the [History Honors program](http://bulletin.temple.edu/undergraduate/liberal-arts/history/ba-history/)
 
-### Application Requirements
-To participate in the History Honors Scholar Program, you must first apply to the University Honors office. Any History major who has earned or is in the process of earning 60 credits and has roughly a 3.7 cumulative GPA can apply for the program. The application form is available on the [Honors website](http://honors.temple.edu/). You should apply as soon as you are eligible so that you have maximum flexibility in scheduling the required coursework. Make an appointment to meet with the Director of the History Honors Scholar Program for advice on completing the application and to discuss your intellectual interests.
-
 ### Program Requirements
-Students in the program take six courses (18 credits), including Historiography and Research Methods (4934), the Honors Thesis Seminar (“Capstone”)(4997) and four upper-level Honors electives (any department). One of those electives can be an Honors Independent Study (4982) if the student’s thesis needs more work. With careful planning, these Honors courses can ALSO fulfill the requirements for the History major, so that students need not delay graduation. For example, the Thesis Seminar (4997) fulfills the normal “capstone/writing” requirement, and the electives, if chosen from History offerings, will also fulfill major requirements. Students must maintain a 3.4 GPA in History and a 3.4 GPA overall.
+The heart of the History Honors Scholar Program is the thesis, which gives students an opportunity to undertake in-depth historical research and writing on a topic of their own choosing.  In doing this, they are mentored by faculty in the History Department and part of a cohort of other engaged and talented students undertaking their own research projects. The final version of the thesis will be required to be between 7000 and 10000 words, not including notes and bibliography. This is approximately the length of articles published in academic history journals.  Students will also present on their work.
+
+The program runs on an annual basis and participants take two, three-credit courses during a single academic year. In the Fall semester, students take History 4934 “Honors Historiography and Research Methods.”  In this course, students develop their thesis topics and work on researching them in primary and secondary sources.  In the Spring semester, students take History 4997 “Honors Thesis Seminar.”  In this course, students complete their research and write, revise, and present their final thesis.  Both of these courses are required for program participants and there are no substitutions possible.  Completing History 4997 and the honors thesis fulfills the “Capstone” writing requirement for History Majors.  History majors need to separately fulfill the “Intermediate” writing requirement for major, typically before they participate in the History Honors Scholar Program.
+
+Students who are double majors (including those in the Secondary Education/Social Studies and History joint degree program), students with minors, transfer students, students studying abroad, and other types of students have all participated in the History Honors Scholar Program in recent years. Interested students in such situations are encouraged to contact the program director as early as possible to discuss how they might fit the thesis program into their academic plans.  
+
+The History Honors Scholar Program is a departmental honors program. It is separate from the University Honors program.  History majors interested in the History Honors Scholar program are not required to be part of the University Honors program, but they can be and the two programs are complimentary. Every year, the History Honors Scholars program includes some students who are in the University Honors program and some who are not.
+
+### Application Requirements
+Writing an honors thesis is a challenging and rewarding endeavor.  Applicants for the History Honors Scholar Program should normally have an overall GPA of 3.4 or higher and a GPA of 3.4 or higher within history courses. Most students who participate in the program do so in their “junior” (60 or more credits earned) or “senior” (90 or more credits earned) years.  
+
+Admission to the program requires the recommendation of a faculty member in History and is at the discretion of the History Department.
+
+For more information or to apply to the History Honors Scholar Program contact the program director:
+Travis Glasson<br>
+Associate Professor<br>
+Department of History<br>
+[tglasson@temple.edu](mailto:tglasson@temple.edu)<br>
 
 ### Program Activities
 Graduating students in the Honors Program participate in an Honors Symposium in the late spring of their graduating year. At the symposium students will present a ten-minute long synopsis of their Honors Thesis to the community of History Majors and faculty. The presentations describe their thesis journey: how they formulated their thesis problem, what kinds of sources they used to investigate their problem, and their reflections on their arguments and findings.
@@ -65,5 +80,16 @@ Honors Students can apply for financial support to cover research related activi
 ### Social Events
 The History Department will host an HONORS box lunch at the opening of each semester to encourage the growth of a vibrant community of undergraduate scholars.
 
-### Alpha Theta
-Phi Alpha Theta is a national History Honors Society that is open to both history majors and non-majors who have completed more than 12 credits in history and achieved a history GPA of 3.25 and a cumulative GPA of 3.1. To join Phi Alpha Theta you DO NOT need to participate in the History Honors Scholars Program. For information, contact the Phi Alpha Theta advisor, Dr. Monica Ricketts, [mrickett@temple.edu](mailto:mrickett@temple.edu).
+### Phi Alpha Theta
+Phi Alpha Theta is a national History Honors Society that is open to both history majors and non-majors who have completed more than 12 credits in history and achieved a history GPA of 3.25 and a cumulative GPA of 3.1. To join Phi Alpha Theta you do not need to participate in the History Honors Scholars Program or the University Honors Program. 
+
+For more information, contact the Phi Alpha Theta adviser:
+Monica Ricketts<br>
+Associate Professor<br>
+Department of History<br>
+[mrickett@temple.edu](mailto:mrickett@temple.edu)<br>
+
+## The University Honors Program
+The University Honors Program enables History majors and minors to experience some of the most dynamic teachers, rewarding classes, and exciting research opportunities that Temple University has to offer.  Students and faculty from History regularly participate in the University Honors Program and the Department offers honors-designated courses, including History 4934 and History 4997 and others, which help majors and non-majors who are in the University Honors Program to meet their “Honors” requirements. History majors who successfully complete the requirements for the wider University Honors Program can graduate with “Honors” on their transcript. 
+
+- Learn More about [Temple University Honors Program](https://honors.temple.edu/)
