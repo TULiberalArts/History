@@ -12,7 +12,7 @@ keywords: 'faculty'
 sidebar: false
 affiliated: true
 affiliated_content: profiles/affiliated.html
-emeritus: false
-emeritus_content: 
+emeritus: true
+emeritus_content: profiles/emeritus.html
 ---
 The College of Liberal Arts’ Department of History consists of over 30 faculty members, many of them globally recognized for their work teaching history degree courses and performing eye-opening research. 
