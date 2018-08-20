@@ -45,7 +45,7 @@ The History Department’s Ph.D. program is a vibrant, engaged intellectual comm
 [Learn More About the Ph.D in History](http://bulletin.temple.edu/graduate/scd/cla/history-phd/#text)
 
 ## Admissions Process
-Please visit the [History Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/history) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+Please visit the [History Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/history-ma/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Teaching Assistantships
 Teaching Assistants (TA) are required to teach or assist in teaching at Temple. Their duties include 20 hours of service per week. Holders receive tuition waivers for all courses taken during the fall and spring semesters (up to 9 credits) that contribute to the student’s program, plus a stipend. All TAs are doctoral students.
