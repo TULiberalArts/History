@@ -69,6 +69,6 @@ Evolving from Prof. Ralph Young’s Dissent in America course, students gather t
 
 Learn More about our Teach-Ins!:
 - The article “The Right to Dissent” in the 2003 Philadelphia Inquirer article, [History Scholars Fight Present War](http://www.peace.ca/professorsrally.htm).
-- The Associated Press & WPVI Channel 6 report on the Oct. 15, 2004 teach-in. The [AP article](http://www.cla.temple.edu/history/2004/10/19/veteran-earns-dissenters-respect-at-teach-in/) was published in over 50 news sources including CNN, The Washington Post, The Guardian, New York Newsday, The Miami Herald, The Chicago Sun-Times, & many others.
+- The Associated Press & WPVI Channel 6 report on the Oct. 15, 2004 teach-in. The AP article was published in over 50 news sources including CNN, The Washington Post, The Guardian, New York Newsday, The Miami Herald, The Chicago Sun-Times, & many others.
 - Professor Young’s article on dissent in the July 2004 issue of [USA Today Magazine](https://liberalarts.temple.edu/sites/liberalarts/files/DISSENT.pdf).
 - An article about the teach-ins in the March 2010 issue of the AHA’s [Perspectives on History](https://www.historians.org/publications-and-directories/perspectives-on-history/march-2010/teaching-history-sixties-style-at-temple-university)
