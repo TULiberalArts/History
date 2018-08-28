@@ -6,15 +6,16 @@ published: true
 # meta-data variables
 title: Home
 description: >-
-  Understand our world in context: earn an undergraduate or graduate-level degree in History 
+  Understand our world in context: earn an undergraduate or graduate-level degree in History
   at the College of Liberal Arts at Temple University. Explore our academic offerings and history concentration.
 keywords: 'academic offerings, undergraduate, graduate, history concentration'
 # custom variables
+promotion-table: true
 sidebar: false
 feature: true
-feature-title: Develop skills useful for any career that requires high-level critical thinking, wide-ranging analytical skills and great writing. 
+feature-title: Develop skills useful for any career that requires high-level critical thinking, wide-ranging analytical skills and great writing.
 feature-image: media/old-family-photo.png
-feature-body: 
+feature-body:
   Our students learn to master large amounts of information, conduct in-depth research, contextualize
   evidence from a variety of sources, and craft powerful written and oral arguments. These strengths are
   a foundation for lifelong learning, civic engagement and successful careers.
@@ -32,27 +33,27 @@ Using rigorous standards of evidence, historians tell meaningful stories about t
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html 
-    title="Dissent in America Teach-Ins" 
-    content="Evolving from Prof. Ralph Young’s Dissent in America course, students gather to discuss the historical background to the current political situation in the world." 
-    image="" 
-    button-link="/history/student-life#dissent-in-america-teach-ins" 
+  <div class="col m12 l4">{% include cards/card2-image.html
+    title="Dissent in America Teach-Ins"
+    content="Evolving from Prof. Ralph Young’s Dissent in America course, students gather to discuss the historical background to the current political situation in the world."
+    image=""
+    button-link="/history/student-life#dissent-in-america-teach-ins"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html 
-      title="Center for Public History" 
-      content="Temple University’s Center for Public History (CPH) aims to be the preeminent provider of Public History training in the greater Philadelphia area." 
-      image="" 
-      button-link="/history/research#center-for-public-history/" 
+    <div class="col m12 l4">{% include cards/card2-image.html
+      title="Center for Public History"
+      content="Temple University’s Center for Public History (CPH) aims to be the preeminent provider of Public History training in the greater Philadelphia area."
+      image=""
+      button-link="/history/research#center-for-public-history/"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html 
-        title="Center for the Study of Force and Diplomacy" 
-        content="Housed with the History Department, CENFAD fosters interdisciplinary faculty and student research on the historic and contemporary use of force and diplomacy in a global context." 
-        image="" 
-        button-link="https://develop.cla.temple.edu/center-for-the-study-of-force-and-diplomacy/" 
+      <div class="col m12 l4">{% include cards/card2-image.html
+        title="Center for the Study of Force and Diplomacy"
+        content="Housed with the History Department, CENFAD fosters interdisciplinary faculty and student research on the historic and contemporary use of force and diplomacy in a global context."
+        image=""
+        button-link="https://develop.cla.temple.edu/center-for-the-study-of-force-and-diplomacy/"
         button-text="Learn More" %}
       </div>
 </div>
