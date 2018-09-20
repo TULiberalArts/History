@@ -15,7 +15,7 @@ sidebar: false
 History is happening all around you—not just in the classroom. College of Liberal Arts History degree students can join an association or [club](#the-james-a-barnes-club), work toward [awards or scholarships](#awards-and-scholarships), conduct research at the Center for the Study of Force and Diplomacy, and/or attend weekly [Teach-Ins](#dissent-in-america-teach-ins).
 
 ## Temple University History and Social Science Association (TUHSSA)
-![Walking tour of the Rittenhouse Square Neighborhood with Dr. Dale Winling]({{site.baseurl}}/media/resized TUHSSA.png){:.img-right}
+![Walking tour of the Rittenhouse Square Neighborhood with Dr. Dale Winling]({{site.baseurl}}/media/resized TUHSSA.png){:.responsive-img .img-right}
 Temple University History and Social Science Association is the main undergraduate student group for History majors and minors. TUHSSA’s main objective is to serve undergraduate students interested in history, political science, and economics. We sponsor a lecture series, historical movie nights, panels for students, day trips to historical sites and much more. TUHSSA also provides a tutoring service, and publishes an annual Undergraduate History Journal. In addition, TUHSSA works closely with CENFAD, the Dissent in America Teach-Ins and the history honors program.
 
 - For more information, or if you’d like to join, please contact us at [tuhssa@gmail.com](mailto:tuhssa@gmail.com). 
@@ -23,7 +23,7 @@ Temple University History and Social Science Association is the main undergradua
 - Connect with TUHSSA on [Facebook](http://www.facebook.com/group.php?gid=72543762899) and [Twitter](http://www.twitter.com/tuhssa)! 
 
 ## The James A. Barnes Club
-![James A. Barnes Club]({{site.baseurl}}/media/resized James A Barnes logo.png){:.img-right}
+![James A. Barnes Club]({{site.baseurl}}/media/resized James A Barnes logo.png){:.responsive-img .img-right}
 The purpose of the James A. Barnes Club is to foster a sense of community among the graduate students in the History Department. Graduate study is not only intellectually challenging (and rewarding), but emotionally draining as well. Coursework is intense, and graduate students in the History Department shuttle between Temple University’s Center City Campus (TUCC) and Main Campus; often without seeing a sympathetic fellow graduate student. All too often, graduate school can be an isolating, intimidating place. The Barnes Club works to change that.
 
 Our organization is a support group for the concerns and issues that graduate students face each day. The Barnes Club serves as a vital liaison between graduate history students and the History Department, informing students about department events and voicing our concerns to the faculty. The Barnes Club email list distributes important information on department events and activities, conference and career opportunities, and Barnes Club social events to our members.
@@ -62,7 +62,7 @@ Awarded to a Temple University graduate student of military or diplomatic histor
 ___
 
 ## Dissent in America Teach-Ins
-![Dissent in America Teach-In]({{site.baseurl}}/media/resized history_teach in.png){:.img-right} 
+![Dissent in America Teach-In]({{site.baseurl}}/media/resized history_teach in.png){:.responsive-img .img-right}
 Evolving from Prof. Ralph Young’s Dissent in America course, students gather to discuss the historical background to the current political situation in the world. The Teach-ins are held Fridays, 2:00 pm to 3:30 pm in 914 Gladfelter Hall (the Weigley Room). Please check the [Temple University Calendar of Events](https://events.temple.edu/department/college-of-liberal-arts) at the beginning of the semester to see the teach-in schedule.
 - If you have a suggestion or idea for a speaker or topic, please fill out the following [form](https://form.jotform.com/81094750388161).
 - Follow the Dissent in America Teach-ins on [Facebook](https://www.facebook.com/pages/Dissent-in-America-Teach-in/1409419602625923)! 
