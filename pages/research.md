@@ -15,13 +15,13 @@ sidebar: false
 ## Research Centers
 History degree and history minor students have access to three incredible research facilities at the College of Liberal Arts. Students can get involved at [The Center for the Study of Force and Diplomacy](#the-center-for-the-study-of-force-and-diplomacy), the [Feinstein Center for American Jewish History](#the-feinstein-center-for-american-jewish-history) and/or the [Center for Public History](#center-for-public-history).
 
-![The Center for the Study of Force and Diplomacy]({{site.baseurl}}/media/resized CENFAD_LOGO.jpg){:.img-right}
+![The Center for the Study of Force and Diplomacy]({{site.baseurl}}/media/resized CENFAD_LOGO.jpg){:.responsive-img .img-right}
 ## The Center for the Study of Force and Diplomacy
 [The Center for the Study of Force and Diplomacy (CENFAD)](https://develop.cla.temple.edu/center-for-the-study-of-force-and-diplomacy/), founded in 1993 by Drs. Richard Immerman, Russell Weigley and David Rosenberg, fosters interdisciplinary faculty and student research on the historic and contemporary use of force and diplomacy in a global context.
 
 ___
 
-![The Feinstein Center for American Jewish History]({{site.baseurl}}/media/resized Feinstein logo.png){:.img-right}
+![The Feinstein Center for American Jewish History]({{site.baseurl}}/media/resized Feinstein logo.png){:.responsive-img .img-right}
 ## The Feinstein Center for American Jewish History
 [The Feinstein Center for American Jewish History](http://www.cla.temple.edu/feinsteincenter/) supports innovative approaches to understanding American Jewish life. Its mission is simple: Inspiring Inquiry. In collaboration with institutions in Philadelphia and beyond, the Feinstein Center invites the public to join conversations about Jewish culture, politics, history, and identity across time and space.
 
