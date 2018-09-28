@@ -10,7 +10,7 @@ description: >-
   History, and the Center for Public History by studying History at Temple University’s College of Liberal Arts.
 keywords: 'research centers, feinstein, center for public history, cenfad'
 # custom variables
-sidebar: false
+
 ---
 ## Research Centers
 History degree and history minor students have access to three incredible research facilities at the College of Liberal Arts. Students can get involved at [The Center for the Study of Force and Diplomacy](#the-center-for-the-study-of-force-and-diplomacy), the [Feinstein Center for American Jewish History](#the-feinstein-center-for-american-jewish-history) and/or the [Center for Public History](#center-for-public-history).

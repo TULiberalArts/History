@@ -10,8 +10,8 @@ description: >-
   College of Liberal Arts prepares students for careers in law, education, business, government, and more.
 keywords: 'major, minor, concentration, undergraduate, coursework, honors, funding, alpha theta'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/undergraduate.html
+
+sidebar: sidebars/undergraduate.html
 ---
 ![History Undergraduate]({{site.baseurl}}/media/RESIZED history undergraduate.png){:.responsive-img .img-right}
 College of Liberal Arts undergraduate history degree majors are bound together by a common curiosity about who we are, how our world was shaped over time, and how the past informs our present lives. Being a history major is great preparation for a professional career in the fields of law, education, business, government and more. Learn history in the birthplace of the nation, where you’ll find exciting coursework at Temple University, administered by our internationally recognized faculty. Students can [major](#ba-in-history) or [minor](#minor-in-history) in history or pursue a bachelor’s degree with [honors](#honors-in-history).

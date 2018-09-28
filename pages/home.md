@@ -11,7 +11,7 @@ description: >-
 keywords: 'academic offerings, undergraduate, graduate, history concentration'
 # custom variables
 promotion-table: true
-sidebar: false
+
 feature: true
 feature-image: media/old-family-photo.png
 ---

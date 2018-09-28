@@ -10,7 +10,7 @@ description: >-
    Constitution Center, and check out where alumni have gone in their careers. Visit us, view your transfer options, and apply!
 keywords: 'careers, visit, transfer, apply'
 # custom variables
-sidebar: false
+
 ---
 ## Careers and Beyond
 Our students have interned at organizations like the Constitution Center and the Historical Society of Pennsylvania. Philadelphia’s rich museum heritage provides abundant opportunities for students to pursue

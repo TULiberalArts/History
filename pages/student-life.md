@@ -10,7 +10,7 @@ description: >-
   conduct research, and apply for awards and scholarships as a History student at Temple University’s College of Liberal Arts.
 keywords: 'dissent in america, james a barnes club, awards and scholarships'
 # custom variables
-sidebar: false
+
 ---
 History is happening all around you—not just in the classroom. College of Liberal Arts History degree students can join an association or [club](#the-james-a-barnes-club), work toward [awards or scholarships](#awards-and-scholarships), conduct research at the Center for the Study of Force and Diplomacy, and/or attend weekly [Teach-Ins](#dissent-in-america-teach-ins).
 
