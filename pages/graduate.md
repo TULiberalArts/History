@@ -6,14 +6,12 @@ published: true
 # meta-data variables
 title: Graduate
 description: >-
-  Earn a master’s or PhD in History, or consider concentrating in public history. Learn more about admissions, 
-  being a teaching assistant, earning fellowships, completing your dissertation, being a part-time instructor, 
+  Earn a master’s or PhD in History, or consider concentrating in public history. Learn more about admissions,
+  being a teaching assistant, earning fellowships, completing your dissertation, being a part-time instructor,
   and attending an annual conference at the College of Liberal Arts at Temple University.
-keywords: 'graduate studies, masters, phd, teachers assistant, fellowships, grants, resources' 
+keywords: 'graduate studies, masters, phd, teachers assistant, fellowships, grants, resources'
 # custom variables
-
 sidebar: sidebars/graduate.html
-
 graduate_students: profiles/graduate_students_2.html
 ---
 At the College of Liberal Arts, graduate students further their knowledge of history in the place where American history was born: Philadelphia. Earn your history [masters of arts](#ma-in-history) at Temple University and consider [concentrating in public history](#concentration-in-public-history). Already have a history master’s? We also offer a history [PhD](#phd-in-history). Learn more about our [admissions process](#admissions-process), becoming a [teaching assistant](#teaching-assistantships), earning [university-awarded fellowships](#university-awarded-fellowships), completing your [dissertation](#dissertation-completion-grant), becoming a [part-time instructor](#appointment-as-part-time-instructor) and attending our [annual conference](#annual-conference). Still need more info? Check out our history [graduate school resources](#graduate-resources).
@@ -59,17 +57,17 @@ Presidential, University, and Future Faculty Fellowships are administered by the
 Each semester the Graduate Council may nominate between one and three Ph.D. students to receive a University Dissertation Completion Grant. Departmental nomination does not guarantee the nominee receipt of the Dissertation Completion Grant. Receipt of this grant disqualifies a student from receiving additional financial support from Temple University.
 
 ## Appointment as Part-Time Instructor
-Ph.D. candidates are eligible for appointment as part-time instructors. The Department Chair, after consulting with the Director of Graduate Studies, is responsible for these appointments. S/he will consider whether the candidate has assisted in the course, and if so, consult the faculty whom s/he has assisted. Priority will be given to those qualified students who have not had the opportunity previously to teach independently. 
+Ph.D. candidates are eligible for appointment as part-time instructors. The Department Chair, after consulting with the Director of Graduate Studies, is responsible for these appointments. S/he will consider whether the candidate has assisted in the course, and if so, consult the faculty whom s/he has assisted. Priority will be given to those qualified students who have not had the opportunity previously to teach independently.
 
 ## Annual Conference
 Graduate students in the Department of History at Temple University host the James A. Barnes Club Graduate Student Conference annually. The Barnes Club Conference is one of the largest and most prestigious graduate student conferences in the region, drawing participants from across the nation and around the world. The annual two-day conference takes place in March during the spring semester.  It gives rising scholars the opportunity to present their projects, receive critical feedback, and network to establish and expand their academic communities. Select conference papers are awarded cash prizes in various geographical and scholarly categories.
 
 ## Graduate Resources
-- [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm) 
-- [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm) 
+- [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
+- [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
 - [Data Sheet for Graduation Applications](https://liberalarts.temple.edu/sites/liberalarts/files/History_Department_Graduate_Application_Data_Sheet_0.pdf)
 - [The Comprehensive Exam: Strategies for Success](https://liberalarts.temple.edu/sites/liberalarts/files/The%20Comprehensive%20Exam.docx)
 
 ___
 
-{% include {{ page.graduate_students_content }} %}
+{% include {{ page.graduate_students }} %}
