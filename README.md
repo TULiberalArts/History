@@ -7,7 +7,7 @@ History is statically generated with [Jekyll](https://jekyllrb.com) and hosted b
 | Links |  |
 | --- | --- |
 | Development | https://develop.cla.temple.edu/history/ |
-| Production |  |
+| Production | https://www.cla.temple.edu/history/ |
 
 ## Content Structure
 
