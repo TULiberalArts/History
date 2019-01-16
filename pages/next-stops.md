@@ -51,6 +51,10 @@ So many of our distinguished alumni have gone on to great accomplishments. The s
 
 [Matthew Daley](https://liberalarts.temple.edu/news/alumni-spotlight-matthew-daley-writer-lantern-city-comic-book-series-and-upcoming-not-so-secret)<br/> 
   B.A. in History from Temple<br/> 
+  
+[Jennifer Mcallister](https://liberalarts.temple.edu/news/alumni-spotlight-jennifer-mcallister)<br/> 
+  Senior Director, Partnerships and Operations at NeighborWorks America<br/>  
+  B.A. in History from Temple<br/> 
  
 ___ 
   
