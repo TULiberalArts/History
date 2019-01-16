@@ -53,8 +53,8 @@ So many of our distinguished alumni have gone on to great accomplishments. The s
   B.A. in History from Temple<br/> 
   
 [Jennifer Mcallister](https://liberalarts.temple.edu/news/alumni-spotlight-jennifer-mcallister)<br/> 
-  Senior Director, Partnerships and Operations at NeighborWorks America<br/>  
-  B.A. in History from Temple<br/> 
+  Senior Director, Partnerships and Operations at NeighborWorks America<br/>
+  B.A. in History from Temple<br/>
  
 ___ 
   
