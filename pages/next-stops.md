@@ -37,23 +37,23 @@ So many of our distinguished alumni have gone on to great accomplishments. The s
 **_Alumni Spotlight_**
 
 [Dan Kunze](https://liberalarts.temple.edu/news/meet-alumnus-dan-kunze)<br/> 
-  - Manages a $10M business for the world’s leading technology research and advisory firm based in Tennessee and Kentucky.<br/>  
-  - Officer in Cyber Operations for the U.S. Army responsible for supporting Asia Pacific.<br/> 
+  - _Manages a $10M business for the world’s leading technology research and advisory firm based in Tennessee and Kentucky_.<br/>  
+  - _Officer in Cyber Operations for the U.S. Army responsible for supporting Asia Pacific_.<br/> 
   B.A. in History with Honors from Temple in 2008<br/> 
   
 [Amira Rose Davis](https://liberalarts.temple.edu/news/alumni-spotlight-amira-rose-davis)<br/> 
-  Assistant Professor of History and Women’s Gender and Sexuality Studies at Penn State University<br/> 
+  _Assistant Professor of History and Women’s Gender and Sexuality Studies at Penn State University_<br/> 
   B.A. in History from Temple in 2011<br/> 
   
 [Olivia D’Aiutolo](https://liberalarts.temple.edu/news/alumni-spotlight-olivia-d-aiutolo)<br/> 
-  Donor Relations at The Colonial Williamsburg Foundation<br/> 
+  _Donor Relations at The Colonial Williamsburg Foundation_<br/> 
   B.A. in History with an Italian Language Certificate from Temple in 2016<br/> 
 
 [Matthew Daley](https://liberalarts.temple.edu/news/alumni-spotlight-matthew-daley-writer-lantern-city-comic-book-series-and-upcoming-not-so-secret)<br/> 
   B.A. in History from Temple<br/> 
   
 [Jennifer Mcallister](https://liberalarts.temple.edu/news/alumni-spotlight-jennifer-mcallister)<br/> 
-  Senior Director, Partnerships and Operations at NeighborWorks America<br/>
+  _Senior Director, Partnerships and Operations at NeighborWorks America_<br/>
   B.A. in History from Temple<br/>
  
 ___ 
