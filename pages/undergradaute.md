@@ -51,6 +51,56 @@ History Honors Scholars explore topics of their own choosing, conduct exciting r
 
 - Learn More about the [History Honors program](http://bulletin.temple.edu/undergraduate/liberal-arts/history/ba-history/)
 
+<details>
+  <summary><strong>Program Requirements</strong></summary>
+<blockquote>  
+  <p>  
+  The heart of the History Honors Scholar Program is the thesis, which gives students an opportunity to undertake in-depth historical 
+  research and writing on a topic of their own choosing. In doing this, they are mentored by faculty in the History Department and part 
+  of a cohort of other engaged and talented students undertaking their own research projects. The final version of the thesis will be
+  required to be between 7000 and 10000 words, not including notes and bibliography. This is approximately the length of articles
+  published in academic history journals. Students will also present on their work.
+  </p>
+</blockquote>
+  
+  <blockquote>  
+    <p>  
+   The program runs on an annual basis and participants take two, three-credit courses during a single academic year. In the Fall 
+   semester, students take History 4934 “Honors Historiography and Research Methods.” In this course, students develop their thesis 
+   topics and work on researching them in primary and secondary sources. In the Spring semester, students take History 4997 “Honors 
+   Thesis Seminar”. In this course, students complete their research and write, revise, and present their final thesis. Both of these
+   courses are required for program participants and there are no substitutions possible. Completing History 4997 and the honors thesis 
+   fulfills the “Capstone” writing requirement for History Majors. History majors need to separately fulfill the “Intermediate” writing 
+   requirement for major, typically before they participate in the History Honors Scholar Program.
+  </p>
+    
+  <blockquote>  
+    <p>  
+    The results of these reports are shared not only with Judge Keys, but also with other stake-holders including the Department of Law 
+    of the City of Chicago, the Chicago Police Department and ACLU-Illinois.
+  </p>
+    
+  <blockquote>  
+    <p>  
+    The results of these reports are shared not only with Judge Keys, but also with other stake-holders including the Department of Law 
+    of the City of Chicago, the Chicago Police Department and ACLU-Illinois.
+  </p>
+    
+  <blockquote>  
+    <p>  
+    The results of these reports are shared not only with Judge Keys, but also with other stake-holders including the Department of Law 
+    of the City of Chicago, the Chicago Police Department and ACLU-Illinois.
+  </p>
+ </blockquote>
+</details>
+
+
+
+
+
+
+
+
 ### Program Requirements
 The heart of the History Honors Scholar Program is the thesis, which gives students an opportunity to undertake in-depth historical research and writing on a topic of their own choosing.  In doing this, they are mentored by faculty in the History Department and part of a cohort of other engaged and talented students undertaking their own research projects. The final version of the thesis will be required to be between 7000 and 10000 words, not including notes and bibliography. This is approximately the length of articles published in academic history journals.  Students will also present on their work.
 
