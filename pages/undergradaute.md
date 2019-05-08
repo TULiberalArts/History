@@ -73,19 +73,22 @@ History Honors Scholars explore topics of their own choosing, conduct exciting r
    fulfills the “Capstone” writing requirement for History Majors. History majors need to separately fulfill the “Intermediate” writing 
    requirement for major, typically before they participate in the History Honors Scholar Program.
   </p>
+ </blockquote>
     
   <blockquote>  
     <p>  
     The results of these reports are shared not only with Judge Keys, but also with other stake-holders including the Department of Law 
     of the City of Chicago, the Chicago Police Department and ACLU-Illinois.
   </p>
-    
+ </blockquote>
+ 
   <blockquote>  
     <p>  
     The results of these reports are shared not only with Judge Keys, but also with other stake-holders including the Department of Law 
     of the City of Chicago, the Chicago Police Department and ACLU-Illinois.
   </p>
-    
+</blockquote>
+
   <blockquote>  
     <p>  
     The results of these reports are shared not only with Judge Keys, but also with other stake-holders including the Department of Law 
