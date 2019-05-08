@@ -118,7 +118,7 @@ History Honors Scholars explore topics of their own choosing, conduct exciting r
  
   <blockquote>  
     <p>  
-    For more information or to apply to the History Honors Scholar Program contact the program director <p><a href="mailto:tglasson@temple.edu">Associate Professor, Travis Glasson.</a></p> 
+    For more information or to apply to the History Honors Scholar Program contact the program director <a href="mailto:tglasson@temple.edu">Associate Professor, Travis Glasson.</a>
   </p>
  </blockquote>
 </details>
@@ -140,7 +140,8 @@ History Honors Scholars explore topics of their own choosing, conduct exciting r
 <blockquote>  
   <p>  
   Honors Students can apply for financial support to cover research related activities, such as visits to archives, travel to present 
-  scholarly papers etc., up to $2,000 through the <p><a href="http://www.temple.edu/vpus/opportunities/">Undergraduate Research Incentive Fund.</a></p> There are also funds available in the <p><a href="http://www.temple.edu/vpus/opportunities/researchscholars.htm">Diamond Research Scholars program.</a></p> Honors students are also encouraged to submit their completed thesis to the <p><a href="http://guides.temple.edu/libraryprize">Library Prize for Undergraduate Research.</a></p>
+  scholarly papers etc., up to $2,000 through the <a href="http://www.temple.edu/vpus/opportunities/">Undergraduate Research Incentive Fund.</a>
+There are also funds available in the <a href="http://www.temple.edu/vpus/opportunities/researchscholars.htm">Diamond Research Scholars program.</a> Honors students are also encouraged to submit their completed thesis to the <a href="http://guides.temple.edu/libraryprize">Library Prize for Undergraduate Research.</a>
   </p>
  </blockquote>
 </details>
@@ -161,7 +162,7 @@ History Honors Scholars explore topics of their own choosing, conduct exciting r
   <p>  
   Phi Alpha Theta is a national History Honors Society that is open to both history majors and non-majors who have completed more than 
   12 credits in history and achieved a history GPA of 3.25 and a cumulative GPA of 3.1. To join Phi Alpha Theta you do not need to 
-  participate in the History Honors Scholars Program or the University Honors Program. For more information, contact the Phi Alpha Theta adviser Associate Professor <p><a href="mailto:mrickett@temple.edu">Monica Ricketts.</a></p>
+  participate in the History Honors Scholars Program or the University Honors Program. For more information, contact the Phi Alpha Theta   adviser: <a href="mailto:mrickett@temple.edu">Associate Professor , Monica Ricketts.</a>
   </p>
  </blockquote>
 </details>
