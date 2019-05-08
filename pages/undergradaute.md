@@ -37,6 +37,11 @@ The History minor is an ideal complement to other majors and programs at Temple,
 
 Learn More about the [Minor in History](http://bulletin.temple.edu/undergraduate/liberal-arts/history/minor-history/)
 
+## The University Honors Program
+The University Honors Program enables History majors and minors to experience some of the most dynamic teachers, rewarding classes, and exciting research opportunities that Temple University has to offer.  Students and faculty from History regularly participate in the University Honors Program and the Department offers honors-designated courses, including History 4934 and History 4997 and others, which help majors and non-majors who are in the University Honors Program to meet their “Honors” requirements. History majors who successfully complete the requirements for the wider University Honors Program can graduate with “Honors” on their transcript. 
+
+- Learn More about [Temple University Honors Program](https://honors.temple.edu/)
+
 ## Honors in History
 There are three ways to enhance your History degree by achieving honors within the major:
 
@@ -160,8 +165,3 @@ History Honors Scholars explore topics of their own choosing, conduct exciting r
   </p>
  </blockquote>
 </details>
-
-## The University Honors Program
-The University Honors Program enables History majors and minors to experience some of the most dynamic teachers, rewarding classes, and exciting research opportunities that Temple University has to offer.  Students and faculty from History regularly participate in the University Honors Program and the Department offers honors-designated courses, including History 4934 and History 4997 and others, which help majors and non-majors who are in the University Honors Program to meet their “Honors” requirements. History majors who successfully complete the requirements for the wider University Honors Program can graduate with “Honors” on their transcript. 
-
-- Learn More about [Temple University Honors Program](https://honors.temple.edu/)
