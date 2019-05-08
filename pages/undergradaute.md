@@ -162,7 +162,7 @@ There are also funds available in the <a href="http://www.temple.edu/vpus/opport
   <p>  
   Phi Alpha Theta is a national History Honors Society that is open to both history majors and non-majors who have completed more than 
   12 credits in history and achieved a history GPA of 3.25 and a cumulative GPA of 3.1. To join Phi Alpha Theta you do not need to 
-  participate in the History Honors Scholars Program or the University Honors Program. For more information, contact the Phi Alpha Theta   adviser: <a href="mailto:mrickett@temple.edu">Associate Professor , Monica Ricketts.</a>
+  participate in the History Honors Scholars Program or the University Honors Program. For more information, contact the Phi Alpha Theta   adviser <a href="mailto:mrickett@temple.edu">Associate Professor , Monica Ricketts.</a>
   </p>
  </blockquote>
 </details>
