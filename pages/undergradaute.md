@@ -141,7 +141,7 @@ History Honors Scholars explore topics of their own choosing, conduct exciting r
   <p>  
   Honors Students can apply for financial support to cover research related activities, such as visits to archives, travel to present 
   scholarly papers etc., up to $2,000 through the <a href="http://www.temple.edu/vpus/opportunities/">Undergraduate Research Incentive Fund.</a>
-There are also funds available in the <a href="http://www.temple.edu/vpus/opportunities/researchscholars.htm">Diamond Research Scholars program.</a> Honors students are also encouraged to submit their completed thesis to the <a href="http://guides.temple.edu/libraryprize">Library Prize for Undergraduate Research.</a>
+There are also funds available in the Diamond Research Scholars program.</a> Honors students are also encouraged to submit their completed thesis to the <a href="http://guides.temple.edu/libraryprize">Library Prize for Undergraduate Research.</a>
   </p>
  </blockquote>
 </details>
