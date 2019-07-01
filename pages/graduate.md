@@ -37,6 +37,9 @@ Applicants must indicate their intent to concentrate in Public History. A limite
 
 Learn More About the [M.A Concentration in Public History](https://sites.temple.edu/centerforpublichistory/graduate-program/)
 
+**_Center for Public History_**
+[Center for Public History](http://sites.temple.edu/centerforpublichistory/) program combines a solid grounding in American history with practical training in non-profit heritage management. Students serve internships in the shadow of Independence Hall, wander the back rooms of our nation’s oldest museums, and explore new possibilities for digital pasts at some of the most historically significant sites in the United States.
+
 ## Ph.D. in History
 The History Department’s Ph.D. program is a vibrant, engaged intellectual community of scholars and students. We work across all historical periods and methodologies. The thrust of the Ph.D. program is to prepare professional historians who are equipped to function in either academia or in public history.
 
