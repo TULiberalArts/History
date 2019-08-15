@@ -12,7 +12,7 @@ keywords: 'dissent in america, james a barnes club, awards and scholarships'
 # custom variables
 
 ---
-History is happening all around you—not just in the classroom. College of Liberal Arts History degree students can join an association or [club](#the-james-a-barnes-club), work toward [awards or scholarships](#awards-and-scholarships), conduct research at the Center for the Study of Force and Diplomacy, and/or attend weekly [Teach-Ins](#dissent-in-america-teach-ins).
+History is happening all around you—not just in the classroom. The College of Liberal Arts History graduate students have the unique opportunity to [study abroad](graduate-study-at-the-university-of-erfurt) at the University of Erfurt in Germany, students can join an association or [club](#the-james-a-barnes-club), work toward [awards or scholarships](#awards-and-scholarships), conduct research at the Center for the Study of Force and Diplomacy, and/or attend weekly [Teach-Ins](#dissent-in-america-teach-ins). 
 
 ## Graduate Study at the University of Erfurt
 ![University of Erfurt]({{site.baseurl}}/media/resizederfurt.jpg){:.responsive-img .img-right}
