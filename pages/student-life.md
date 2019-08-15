@@ -14,6 +14,30 @@ keywords: 'dissent in america, james a barnes club, awards and scholarships'
 ---
 History is happening all around you—not just in the classroom. College of Liberal Arts History degree students can join an association or [club](#the-james-a-barnes-club), work toward [awards or scholarships](#awards-and-scholarships), conduct research at the Center for the Study of Force and Diplomacy, and/or attend weekly [Teach-Ins](#dissent-in-america-teach-ins).
 
+## Graduate Study at the University of Erfurt
+![University of Erfurt]({{site.baseurl}}/media/resizederfurt.jpg){:.responsive-img .img-right}
+With the support of a grant from the Germany government, graduate students in History at Temple University are able to do a semester abroad studying History at the University of Erfurt.  
+
+[Erfurt](https://www.thecrazytourist.com/15-best-things-erfurt-germany/) is a stunning medieval city with winding streets and graceful market squares in the center of Germany, two hours by train from Frankfurt and Berlin.  Largely untouched by the bombing of World War II, Erfurt in a blend of old and new.  It is perhaps most famous as the place where Martin Luther studied as a young man.  In fact, the [monastery](https://europeforvisitors.com/germany/erfurt/erfurt-augustinerkloster.htm) where lived and prayed hundreds of years ago is still standing.
+
+The [University of Erfurt](https://www.uni-erfurt.de/en/university-of-erfurt/) sits just on the outskirts of town. With its six thousand students, it offers wide range of program in fields from public policy to education. One of the distinctive strengths of the university is its history department. Within the department, there is strong focus on [North American Studies](https://www.uni-erfurt.de/en/geschichte/north-american-history/). One of the advantages of this semester abroad program, then, is to study the United States outside of the United States. The department at Erfurt has three specialists in US history and regularly hosts visitors from around the world who study the US and offer classes and one-on-one instructions in Erfurt.  
+
+There are two options for spending time in Erfurt. One is too spend a semester there as a visiting students. Because this is an officially exchange between Temple and Erfurt, your tuition costs would be exactly the same as if we were spending the semester in Philadelphia. Officials at Erfurt would help with housing option on that end. Second, each year the Temple History Department will send two graduate students to Erfurt to present their work and sit in on classes. Students have to apply for this option and will receive a grant to travel to Erfurt.  
+
+### Sample Graduate Seminars
+Below are samples of graduate seminars offered in recent years. All of these classes are taught in English. The readings are in English and the discussions are in English. (_**Note**_, the University also offers beginning and intermediate [courses](https://www.uni-erfurt.de/en/international/visiting-scholars/living-in-erfurt/language-courses/) in German.)  
+
+- From Victorianism to Viagra: History of Sexuality in the United States
+- The History of Work in Modern in Modern America
+- Colonial History: Methods and Research Fields
+- American Military History as Social History and Body History
+- Vietnam on TV: Ken Burns’/Lynn Novick’s Documentary and How America Remembers the Vietnam War
+- Food, Culture, and Environment in Modern America
+- Photography and Colonialism
+- Histories of the Body
+
+Please contact [Professor Bryant Simon](mailto:brysimon@temple.edu) with any questions about this study abroad option.  
+
 ## Temple University History and Social Science Association (TUHSSA)
 ![Walking tour of the Rittenhouse Square Neighborhood with Dr. Dale Winling]({{site.baseurl}}/media/resized TUHSSA.png){:.responsive-img .img-right}
 Temple University History and Social Science Association is the main undergraduate student group for History majors and minors. TUHSSA’s main objective is to serve undergraduate students interested in history, political science, and economics. We sponsor a lecture series, historical movie nights, panels for students, day trips to historical sites and much more. TUHSSA also provides a tutoring service, and publishes an annual Undergraduate History Journal. In addition, TUHSSA works closely with CENFAD, the Dissent in America Teach-Ins and the history honors program.
@@ -41,6 +65,11 @@ ___
 
 ## Center for the Study of Force and Diplomacy (CENFAD) Awards
 The Center for the Study of Force and Diplomacy (CENFAD) awards several additional fellowships and grants. They include:
+
+<details>
+  <summary><strong>What is an MRI?</strong></summary>
+<p>Magnetic resonance imaging (MRI) is a non-invasive technique that uses magnetic fields and radio waves to generate high-resolution images inside your body. An MRI scan is different from a CT scan or X-ray in that it doesn’t use radiation to produce images.</p>
+</details>
 
 **Thomas J. Davis Endowed Fellowship in Diplomacy and Foreign Relations**<br>
 This fellowship is made possible by the generosity of Todd Davis, who received his Ph.D. in History from Temple in 2002 and served as the first graduate assistant for development for the Center for the Study of Diplomacy (CENFAD). Todd named the fellowship after his father, a decorated first lieutenant in the U.S. Army who was killed in action during the Vietnam War.  Responsibilities will be dedicated to advancing the Center for the Study of Force and Diplomacy. In this capacity, your assignment will be primarily to assist, through research and writing, applications for external grants to support CENFAD’s projects. You will also be expected to assist in the publication of CENFAD’s newsletter, Strategic Visions, help publicize lectures and symposia, administrate CENFAD’s website, coordinate CENFAD colloquia and other events, and contribute in parallel ways. As is the case with a conventional assistantship, you will not be expected to work more than 20 hours per week. The fellowship Includes a stipend — amount changes each year.
