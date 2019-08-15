@@ -63,7 +63,10 @@ Each semester the Graduate Council may nominate between one and three Ph.D. stud
 Ph.D. candidates are eligible for appointment as part-time instructors. The Department Chair, after consulting with the Director of Graduate Studies, is responsible for these appointments. S/he will consider whether the candidate has assisted in the course, and if so, consult the faculty whom s/he has assisted. Priority will be given to those qualified students who have not had the opportunity previously to teach independently.
 
 ## Annual Conference
-Graduate students in the Department of History at Temple University host the James A. Barnes Club Graduate Student Conference annually. The Barnes Club Conference is one of the largest and most prestigious graduate student conferences in the region, drawing participants from across the nation and around the world. The annual two-day conference takes place in March during the spring semester.  It gives rising scholars the opportunity to present their projects, receive critical feedback, and network to establish and expand their academic communities. Select conference papers are awarded cash prizes in various geographical and scholarly categories.
+Graduate students in the Department of History at Temple University host the James A. Barnes Club Graduate Student Conference annually. The Barnes Club Conference is one of the largest and most prestigious graduate student conferences in the region, drawing participants from across the nation and around the world. The annual two-day conference takes place in March during the spring semester. It gives rising scholars the opportunity to present their projects, receive critical feedback, and network to establish and expand their academic communities. Select conference papers are awarded cash prizes in various geographical and scholarly categories.
+
+## Graduate Study at the University of Erfurt
+With the support of a grant from the Germany government, graduate students in History at Temple University are able to do a semester abroad studying History at the University of Erfurt. [Learn more](https://www.cla.temple.edu/history/student-life/#graduate-study-at-the -university-of-erfurt) about this special study abroad option for History Graduate Students in Germany!
 
 ## Graduate Resources
 - [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
