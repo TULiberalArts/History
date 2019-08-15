@@ -38,6 +38,8 @@ Below are samples of graduate seminars offered in recent years. All of these cla
 
 Please contact [Professor Bryant Simon](mailto:brysimon@temple.edu) with any questions about this study abroad option.  
 
+___
+
 ## Temple University History and Social Science Association (TUHSSA)
 ![Walking tour of the Rittenhouse Square Neighborhood with Dr. Dale Winling]({{site.baseurl}}/media/resized TUHSSA.png){:.responsive-img .img-right}
 Temple University History and Social Science Association is the main undergraduate student group for History majors and minors. TUHSSA’s main objective is to serve undergraduate students interested in history, political science, and economics. We sponsor a lecture series, historical movie nights, panels for students, day trips to historical sites and much more. TUHSSA also provides a tutoring service, and publishes an annual Undergraduate History Journal. In addition, TUHSSA works closely with CENFAD, the Dissent in America Teach-Ins and the history honors program.
@@ -92,8 +94,6 @@ The Center for the Study of Force and Diplomacy (CENFAD) awards several addition
 </details>
 
 The Department also awards the Allen Davis Endowed Fellowship in Public History (an incoming Ph.D. student who is interested in public history).
-
-___
 
 ## Dissent in America Teach-Ins
 ![Dissent in America Teach-In]({{site.baseurl}}/media/resized history_teach in.png){:.responsive-img .img-right}
