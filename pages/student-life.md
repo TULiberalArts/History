@@ -89,7 +89,7 @@ The Center for the Study of Force and Diplomacy (CENFAD) awards several addition
 <details>
   <summary><strong>The Jeffrey Bower Research Award</strong></summary>
 <p>Awarded to a Temple University graduate student of military or diplomatic history. Preference is given to students who incorporate a study of technology into their work.</p>
-</details>
+</details></br>
 
 The Department also awards the Allen Davis Endowed Fellowship in Public History (an incoming Ph.D. student who is interested in public history).
 
