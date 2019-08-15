@@ -16,8 +16,6 @@ History is happening all around you—not just in the classroom. College of Libe
 
 ## Graduate Study at the University of Erfurt
 ![University of Erfurt]({{site.baseurl}}/media/resizederfurt.jpg){:.responsive-img .img-right}
-With the support of a grant from the Germany government, graduate students in History at Temple University are able to do a semester abroad studying History at the University of Erfurt.  
-
 [Erfurt](https://www.thecrazytourist.com/15-best-things-erfurt-germany/) is a stunning medieval city with winding streets and graceful market squares in the center of Germany, two hours by train from Frankfurt and Berlin.  Largely untouched by the bombing of World War II, Erfurt in a blend of old and new.  It is perhaps most famous as the place where Martin Luther studied as a young man.  In fact, the [monastery](https://europeforvisitors.com/germany/erfurt/erfurt-augustinerkloster.htm) where lived and prayed hundreds of years ago is still standing.
 
 The [University of Erfurt](https://www.uni-erfurt.de/en/university-of-erfurt/) sits just on the outskirts of town. With its six thousand students, it offers wide range of program in fields from public policy to education. One of the distinctive strengths of the university is its history department. Within the department, there is strong focus on [North American Studies](https://www.uni-erfurt.de/en/geschichte/north-american-history/). One of the advantages of this semester abroad program, then, is to study the United States outside of the United States. The department at Erfurt has three specialists in US history and regularly hosts visitors from around the world who study the US and offer classes and one-on-one instructions in Erfurt.  
