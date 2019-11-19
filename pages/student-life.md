@@ -91,7 +91,7 @@ The Center for the Study of Force and Diplomacy (CENFAD) awards several addition
 <p>Awarded to a Temple University graduate student of military or diplomatic history. Preference is given to students who incorporate a study of technology into their work.</p>
 </details>
 
-<br>The Department also awards the Allen Davis Endowed Fellowship in Public History (an incoming Ph.D. student who is interested in public history).</br>
+<br>The Department also awards the Allen Davis Endowed Fellowship in Public History (an incoming Ph.D. student who is interested in public history).<br>
 
 ## Dissent in America Teach-Ins
 ![Dissent in America Teach-In]({{site.baseurl}}/media/resized history_teach in.png){:.responsive-img .img-right}
