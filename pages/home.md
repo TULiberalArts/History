@@ -31,7 +31,7 @@ Using rigorous standards of evidence, historians tell meaningful stories about t
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="Dissent in America Teach-Ins"
     content="Evolving from Prof. Ralph Young’s Dissent in America course, students gather to discuss the historical background to the current political situation in the world."
     image=""
@@ -39,7 +39,7 @@ ___
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
+    <div class="col m12 l4">{% include cards/card2-fixed.html
       title="Center for Public History"
       content="Temple University’s Center for Public History (CPH) aims to be the preeminent provider of Public History training in the greater Philadelphia area."
       image=""
@@ -47,7 +47,7 @@ ___
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
+      <div class="col m12 l4">{% include cards/card2-fixed.html
         title="Center for the Study of Force and Diplomacy"
         content="Housed with the History Department, CENFAD fosters interdisciplinary faculty and student research on the historic and contemporary use of force and diplomacy in a global context."
         image=""
