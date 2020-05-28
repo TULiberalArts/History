@@ -25,12 +25,12 @@ Our majors take rigorous courses in subjects such as Dissent in America, The His
 ## Internationally Recognized Faculty
 Our faculty members are both world-renowned scholars and award-winning teachers.
 
-## BA in History
+## Bachelor of Arts in History
 The major in History is designed to allow students maximum flexibility to pursue their interests, whether in particular time periods or world regions. In addition to the introductory classes and a wide range of upper-level coursework, students will build strong research, writing, communication, and analytical skills in a research and writing sequence composed of History 2001: The Historian's Craft, History 3096: Intermediate Writing Seminar, and History 4096: Capstone Seminar in History. 
 
 _Courses with “9″ as a second digit are honors courses and are usually restricted to honors students._
 
-Learn More about the [Bachelor of Arts in History](http://bulletin.temple.edu/undergraduate/liberal-arts/history/ba-history/)
+Learn More about the [BA in History](http://bulletin.temple.edu/undergraduate/liberal-arts/history/ba-history/)
 
 ## Minor in History
 The History minor is an ideal complement to other majors and programs at Temple, from medicine to journalism, from computer science to finance, from film to marketing. Students with a minor in history are required to take six (6) courses totaling eighteen (18) semester hours.The six classes include two introductory classes, History 2001, and 3 classes above 2000.
