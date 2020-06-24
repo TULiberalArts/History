@@ -59,7 +59,7 @@ So many of our distinguished alumni have gone on to great accomplishments. The s
 ___ 
   
 ## Make Your Declaration
-The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
+The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests - from the humanities and social sciences to business and the media arts.
 
 For a complete list of our academic offerings visit [liberalarts.temple.edu](https://liberalarts.temple.edu/)
 
