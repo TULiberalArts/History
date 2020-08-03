@@ -18,7 +18,7 @@ History degree and History minor students have access to three incredible resear
 ___
 
 ## The Center for the Study of Force and Diplomacy
-[The Center for the Study of Force and Diplomacy (CENFAD)](https://develop.cla.temple.edu/center-for-the-study-of-force-and-diplomacy/), founded in 1993 by Drs. Richard Immerman, Russell Weigley and David Rosenberg, fosters interdisciplinary faculty and student research on the historic and contemporary use of force and diplomacy in a global context.<br>
+[The Center for the Study of Force and Diplomacy (CENFAD)](https://www.cla.temple.edu/center-for-the-study-of-force-and-diplomacy/), founded in 1993 by Drs. Richard Immerman, Russell Weigley and David Rosenberg, fosters interdisciplinary faculty and student research on the historic and contemporary use of force and diplomacy in a global context.<br>
 
 ## The Feinstein Center for American Jewish History
 [The Feinstein Center for American Jewish History](http://www.cla.temple.edu/feinsteincenter/) supports innovative approaches to understanding American Jewish life. Its mission is simple: Inspiring Inquiry. In collaboration with institutions in Philadelphia and beyond, the Feinstein Center invites the public to join conversations about Jewish culture, politics, history, and identity across time and space.<br>
