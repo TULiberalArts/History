@@ -28,6 +28,8 @@ Using rigorous standards of evidence, historians tell meaningful stories about t
 - [MA in History: Public History Concentration](https://sites.temple.edu/centerforpublichistory/graduate-program/)
 - [PhD in History](https://www.temple.edu/academics/degree-programs/history-phd-la-hist-phd)
 
+_Header Photo Credit: Temple Students Protest Education Funding Cuts (c. late 1970s). Courtesy of the Special Collections Research Center. Temple University Libraries, Philadelphia PA_
+
 ___
 
 <div class="row row-wide">
@@ -55,4 +57,3 @@ ___
         button-text="Learn More" %}
       </div>
 </div>
-Header Photo Credit: Temple Students Protest Education Funding Cuts (c. late 1970s). Courtesy of the Special Collections Research Center. Temple University Libraries, Philadelphia PA
