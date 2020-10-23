@@ -13,7 +13,7 @@ keywords: 'academic offerings, undergraduate, graduate, history concentration'
 promotion-table: true
 
 feature: true
-feature-image: media/Temple-Student-Protest.png
+feature-image: media/Food_Trucks.jpg
 ---
 ## Develop High-Level Critical Thinking, Wide-Ranging Analytical Skills and Great Writing
 Our students learn to master large amounts of information, conduct in-depth research, contextualize evidence from a variety of sources and craft powerful written and oral arguments. These strengths are a foundation for lifelong learning, civic engagement and successful careers.
