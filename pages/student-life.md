@@ -44,7 +44,7 @@ Temple University History and Social Science Association is the main undergradua
 
 - For more information, or if you’d like to join, please contact us at [tuhssa@gmail.com](mailto:tuhssa@gmail.com). 
 
-- Connect with TUHSSA on [Facebook](http://www.facebook.com/group.php?gid=72543762899) and [Twitter](http://www.twitter.com/tuhssa)! 
+- Connect with TUHSSA on [Facebook](http://www.facebook.com/group.php?gid=72543762899)! 
 
 ## The James A. Barnes Club
 ![James A. Barnes Club]({{site.baseurl}}/media/resized James A Barnes logo.png){:.responsive-img .img-right}
