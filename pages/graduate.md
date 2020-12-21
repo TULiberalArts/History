@@ -61,7 +61,7 @@ History graduate students have access to many scholarships and financial aid off
 Graduate students in the Department of History at Temple University host the James A. Barnes Club Graduate Student Conference annually. The Barnes Club Conference is one of the largest and most prestigious graduate student conferences in the region, drawing participants from across the nation and around the world. The annual two-day conference takes place in March during the spring semester. It gives rising scholars the opportunity to present their projects, receive critical feedback, and network to establish and expand their academic communities. Select conference papers are awarded cash prizes in various geographical and scholarly categories.
 
 ## Graduate Study at the University of Erfurt
-With the support of a grant from the German government, History graduate students can take a semester abroad studying History at the University of Erfurt. [Learn more](https://www.cla.temple.edu/history/student-life/#graduate-study-at-the -university-of-erfurt) about this special study abroad option!
+With the support of a grant from the German government, History graduate students can take a semester abroad studying History at the University of Erfurt. [Learn more](https://www.cla.temple.edu/history/student-life/#graduate-study-at-the-university-of-erfurt) about this special study abroad option!
 
 ## Graduate Resources
 - [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
