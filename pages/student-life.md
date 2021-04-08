@@ -78,7 +78,7 @@ The Center for the Study of Force and Diplomacy (CENFAD) awards several addition
 
 <details>
   <summary><strong>The Marvin Wachman Fellowship in Force and Diplomacy</strong></summary>
-<p>To be awarded to a Temple University graduate student in the history of U.S. foreign relations.</p>
+<p>To be awarded to Temple University graduate students in the history of U.S. foreign relations. Direct questions or applications should contact Dr. Alan McPherson. The deadline for spring awards is March 1.</p>
 </details>
 
 <details>
