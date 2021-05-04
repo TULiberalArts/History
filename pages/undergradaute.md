@@ -28,12 +28,12 @@ Our faculty members are both world-renowned scholars and award-winning teachers.
 ## Bachelor of Arts in History
 The major in History is designed to allow students maximum flexibility to pursue their interests, whether in particular time periods or world regions. In addition to the introductory classes and a wide range of upper-level coursework, students will build strong research, writing, communication, and analytical skills in a research and writing sequence composed of History 2001: The Historian's Craft, History 3096: Intermediate Writing Seminar, and History 4096: Capstone Seminar in History. 
 
-Learn More about the [BA in History](https://www.temple.edu/academics/degree-programs/history-major-la-hist-ba)
+- Learn More about the [BA in History](https://www.temple.edu/academics/degree-programs/history-major-la-hist-ba)
 
 ## Minor in History
 The History minor is an ideal complement to other majors and programs at Temple, from medicine to journalism, computer science to finance and film to marketing. Students with a minor in History are required to take six courses totaling 18 semester hours.The six courses include two introductory courses, History 2001 and three courses above 2000.
 
-Learn More about the [Minor in History](http://bulletin.temple.edu/undergraduate/liberal-arts/history/minor-history/)
+- Learn More about the [Minor in History](http://bulletin.temple.edu/undergraduate/liberal-arts/history/minor-history/)
 
 ## The University Honors Program
 The University Honors Program enables History majors and minors to experience some of the most dynamic teachers, rewarding classes, and exciting research opportunities that Temple University has to offer. History students and faculty regularly participate in the University Honors Program, and the department offers honors-designated courses, including History 4934 and History 4997, which help majors and non-majors who are in the University Honors Program to meet their Honors requirements. History majors who successfully complete the requirements for the wider University Honors Program can graduate with “Honors” on their transcript. 
